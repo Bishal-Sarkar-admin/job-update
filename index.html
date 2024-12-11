@@ -138,6 +138,7 @@
   </head>
   <body>
     <h1>Recruitment Information</h1>
+    <h5 id="dateupdate">Last Update on</h5>
     <ul class="job-list">
       <li onclick="select('drdo.json')">
         DRDO (Defence Research and Development Organisation)
@@ -183,6 +184,29 @@
     </table>
   </body>
   <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      // Add the event listener after the DOM content is loaded
+      const container = document.getElementById("dateupdate");
+      if (container) {
+        fetch("date.txt") // Specify the path to your file
+          .then((response) => {
+            if (!response.ok) {
+              throw new Error("File not found or error loading file.");
+            }
+            return response.text(); // Parse the file as text
+          })
+          .then((data) => {
+            container.innerText = `Last Update on: ${data}`; // Insert the content of the file into the container
+          })
+          .catch((error) => {
+            console.error("Error:", error);
+            container.innerText = "Failed to load the data. Please try again.";
+          });
+      } else {
+        console.error("Element with ID 'dateupdate' not found.");
+      }
+    });
+
     function dump(data) {
       // Path to the external file (ensure it is hosted on the same server or CORS is handled)
       const filePath = data;
