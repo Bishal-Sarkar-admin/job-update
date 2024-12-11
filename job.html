@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Recruitment Information</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+      }
+      .job-list {
+        list-style: none; /* Remove default bullet points */
+        padding: 0; /* Remove default padding */
+        margin: 0; /* Remove default margin */
+      }
+
+      .job-list li {
+        display: inline-block; /* Display items inline */
+        margin: 2px 4px; /* Minimal spacing between items */
+        padding: 2px 4px; /* Small padding for a clickable area */
+        font-size: 0.9em; /* Slightly smaller font for compactness */
+        line-height: 1.2; /* Tight line spacing */
+        background-color: #f9f9f9; /* Light background for clarity */
+        border: 1px solid #ddd; /* Thin border for separation */
+        border-radius: 2px; /* Subtle rounded corners */
+      }
+
+      .job-list li:hover {
+        background-color: #eef; /* Highlight on hover */
+        border-color: #ccd; /* Slightly darker border on hover */
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-bottom: 20px;
+      }
+      th,
+      td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+      }
+      th {
+        background-color: #f4f4f4;
+      }
+      tr:nth-child(even) {
+        background-color: #f9f9f9;
+      }
+      tr:hover {
+        background-color: #f1f1f1;
+      }
+      .link {
+        color: blue;
+        text-decoration: underline;
+        cursor: pointer;
+      }
+      a {
+        color: #0073e6; /* Soft, accessible blue */
+        text-decoration: none; /* Default without underline for a cleaner look */
+        cursor: pointer; /* Indicates a clickable element */
+        font-weight: 500; /* Slightly bold for readability */
+        transition: color 0.3s ease, background-color 0.3s ease; /* Smooth transition for hover effects */
+        padding: 2px 4px; /* Small padding for better clickability */
+        border-radius: 4px; /* Rounded edges for modern feel */
+      }
+
+      a:hover {
+        color: #005bb5; /* Darker blue for hover effect */
+        text-decoration: underline; /* Adds underline on hover for visual cue */
+        background-color: rgba(
+          0,
+          115,
+          230,
+          0.1
+        ); /* Subtle background highlight */
+      }
+
+      a:active {
+        color: #003f7f; /* Even darker blue on click */
+        background-color: rgba(
+          0,
+          115,
+          230,
+          0.2
+        ); /* More intense background highlight */
+      }
+
+      a:visited {
+        color: #551a8b; /* Purple for visited links, following web conventions */
+      }
+
+      a:focus {
+        outline: 2px solid #005bb5; /* Focus outline for accessibility */
+        outline-offset: 2px; /* Creates space around the element */
+      }
+      a[href] {
+        color: #0073e6; /* Soft blue color for links */
+        text-decoration: none; /* No underline by default */
+        cursor: pointer; /* Indicates a clickable link */
+        font-weight: 500; /* Slightly bold for better visibility */
+        transition: color 0.3s ease, background-color 0.3s ease; /* Smooth hover effects */
+        padding: 2px 4px; /* Add padding for a larger clickable area */
+        border-radius: 4px; /* Rounded corners for modern design */
+      }
+
+      a[href]:hover {
+        color: #005bb5; /* Darker blue for hover effect */
+        text-decoration: underline; /* Adds underline on hover */
+        background-color: rgba(
+          0,
+          115,
+          230,
+          0.1
+        ); /* Subtle background highlight */
+      }
+
+      a[href]:active {
+        color: #003f7f; /* Even darker blue for active state */
+        background-color: rgba(
+          0,
+          115,
+          230,
+          0.2
+        ); /* More pronounced background */
+      }
+
+      a[href]:visited {
+        color: #551a8b; /* Purple color for visited links */
+      }
+
+      a[href]:focus {
+        outline: 2px solid #005bb5; /* Focus outline for accessibility */
+        outline-offset: 2px; /* Adds space around the element */
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Recruitment Information</h1>
+    <ul class="job-list">
+      <li onclick="select('drdo.json')">
+        DRDO (Defence Research and Development Organisation)
+      </li>
+      <li onclick="select('isro.json')">
+        ISRO (Indian Space Research Organisation)
+      </li>
+      <li onclick="select('barc.json')">
+        BARC (Bhabha Atomic Research Centre)
+      </li>
+      <li onclick="select('nielit.json')">
+        NIELIT (National Institute of Electronics & Information Technology)
+      </li>
+      <li onclick="select('cbi.json')">
+        CBI (Central Bureau of Investigation)
+      </li>
+      <li onclick="select('mha.json')">IB (Intelligence Bureau)</li>
+      <li onclick="select('nia.json')">NIA (National Investigation Agency)</li>
+      <li onclick="select('cdac.json')">
+        C-DAC (Centre for Development of Advanced Computing)
+      </li>
+      <li onclick="select('ecil.json')">
+        ECIL (Electronics Corporation of India Limited)
+      </li>
+      <li onclick="select('bsnl.json')">BSNL (Bharat Sanchar Nigam Limited)</li>
+      <li onclick="select('pesb.json')">
+        PESB (Public Enterprises Selection Board)
+      </li>
+      <li onclick="dump('aai.txt')">AAI (Airports Authority of India)</li>
+      <li onclick="dump('irctc.txt')">
+        IRCTC (Indian Railway Catering and Tourism Corporation)
+      </li>
+    </ul>
+    <table id="recruitment-table">
+      <thead>
+        <tr>
+          <th>Serial No.</th>
+          <th>Title/Description</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </body>
+  <script>
+    function dump(data) {
+      // Path to the external file (ensure it is hosted on the same server or CORS is handled)
+      const filePath = data;
+
+      // Fetch the content of the file
+      fetch(filePath)
+        .then((response) => {
+          if (!response.ok) {
+            throw new Error("File not found or error loading file.");
+          }
+          return response.text(); // Parse the file as text
+        })
+        .then((data) => {
+          const container = document.getElementById("recruitment-table");
+          container.innerHTML = data; // Insert the content of the file into the container
+        })
+        .catch((error) => {
+          console.error("Error:", error);
+          const container = document.getElementById("recruitment-table");
+          container.innerHTML = "Failed to load the data. Please try again.";
+        });
+    }
+    function select(data) {
+      // Clear existing table rows
+      const container = document.getElementById("recruitment-table");
+      container.innerHTML = `<thead>
+        <tr>
+          <th>Serial No.</th>
+          <th>Title/Description</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody></tbody>`;
+
+      const tableBody = document.querySelector("#recruitment-table tbody");
+      tableBody.innerHTML = "";
+
+      // Fetch the JSON file
+      fetch(data)
+        .then((response) => {
+          if (!response.ok) {
+            throw new Error("Failed to load JSON file.");
+          }
+          return response.json();
+        })
+        .then((recruitmentData) => {
+          // Populate the table with JSON data
+          recruitmentData.forEach((item, index) => {
+            const row = document.createElement("tr");
+
+            // Serial Number Cell
+            const serialCell = document.createElement("td");
+            serialCell.textContent = item.srNo || item.serialNo || index + 1;
+
+            // Title/Description Cell
+            const titleCell = document.createElement("td");
+            titleCell.textContent =
+              item.post || item.keyword || item.title || item.description;
+
+            // Details Cell
+            const detailsCell = document.createElement("td");
+            if (
+              item.detailsLink ||
+              item.link ||
+              item.downloadLink ||
+              item.url
+            ) {
+              const link = document.createElement("a");
+              link.href =
+                item.detailsLink || item.link || item.downloadLink || item.url;
+              link.target = "_blank";
+              link.textContent = "View Details";
+              detailsCell.appendChild(link);
+            } else if (item.links) {
+              item.links.forEach((subLink) => {
+                const subLinkElement = document.createElement("a");
+                subLinkElement.href = subLink.url;
+                subLinkElement.target = "_blank";
+                subLinkElement.textContent = subLink.text;
+                detailsCell.appendChild(subLinkElement);
+                detailsCell.appendChild(document.createElement("br"));
+              });
+            } else {
+              detailsCell.textContent = "No details available";
+            }
+
+            // Append cells to the row
+            row.appendChild(serialCell);
+            row.appendChild(titleCell);
+            row.appendChild(detailsCell);
+
+            // Append row to the table
+            tableBody.appendChild(row);
+          });
+        })
+        .catch((error) => {
+          console.error("Error fetching data:", error);
+          const row = document.createElement("tr");
+          const errorCell = document.createElement("td");
+          errorCell.colSpan = 3;
+          errorCell.textContent = "Error: " + error.message;
+          tableBody.appendChild(errorCell);
+        });
+    }
+  </script>
+</html>

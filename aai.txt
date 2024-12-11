@@ -1,0 +1,1230 @@
+<table class="views-table cols-11 footable fooicon-expanded-plus fooicon-collapsed-minus footable-1 breakpoint-sm" id="footable" style="display: table;">
+        <thead>
+    <tr class="footable-header">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <th data-type="text" data-breakpoints="" class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          Exam Name        <div class="exam_search"><input type="text" name="examname" id="examname" value="" placeholder="Search by exam name"> <i id="go" class="fa fa-search"></i></div></th><th data-type="text" data-breakpoints="phone tablet" class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/careers/recruitment?combine=&amp;order=field_name_of_department&amp;sort=asc" title="sort by Department" class="active" target="_blank">Department</a>        </th><th data-type="text" data-breakpoints="phone tablet" class="views-field views-field-field-total-posts" style="display: table-cell;">
+          Total Posts        </th><th data-type="html" data-breakpoints="phone tablet" class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/careers/recruitment?combine=&amp;order=field_job_post_date&amp;sort=asc" title="sort by Job Post Date" class="active" target="_blank">Job Post Date</a>        </th><th data-type="html" data-breakpoints="phone tablet" class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          Recruitment Advt.        </th><th data-type="text" data-breakpoints="phone tablet" class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+          Press Note        </th><th data-type="html" data-breakpoints="" class="views-field views-field-php-1" style="display: table-cell;">
+          Online Registration &amp; Objection Link        </th><th data-type="text" data-breakpoints="phone tablet" class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+          Syllabus        </th><th data-type="text" data-breakpoints="phone tablet" class="views-field views-field-field-admit-card" style="display: table-cell;">
+          Admit Card        </th><th data-type="date" data-breakpoints="phone tablet" class="views-field views-field-changed" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/careers/recruitment?combine=&amp;order=changed&amp;sort=asc" title="sort by Last Updation" class="active" target="_blank">Last Updation</a>        </th><th data-type="text" data-breakpoints="phone tablet" class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+          Result        </th></tr>
+    </thead>
+    <tbody>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    <tr class="odd views-row-first">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          RECRUITMENT OF SENIOR ASSISTANT (ELECTRONICS) SENIOR ASSISTANT (OPERATIONS), SENIOR ASSISTANT (ACCOUNTS) &amp; JUNIOR ASSISTANT (FIRE SERVICES) IN VARIOUS DISCIPLINES IN AIRPORTS AUTHORITY OF INDIA-NORTH EASTERN REGION        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          HR        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          64        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2023-12-30T00:00:00+05:30" class="date-display-single">30-12-2023</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/398583" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2023-12-30T00:00:00+05:30" class="date-display-single">30-12-2023</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/press-note/398583" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-11-01T00:00:00+05:30" class="date-display-single">01-11-2024</span> </div></a>        </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          <a href="https://cdn.digialm.com//EForms/configuredHtml/1258/86752/Index.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Registration Link<span class="ext"><span class="element-invisible">(link is external)</span></span></a><br><a href="https://cdn.digialm.com//EForms/configuredHtml/1258/86752/login.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Objection Link<span class="ext"><span class="element-invisible">(link is external)</span></span></a><br>        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+          <a href="https://cdn.digialm.com//EForms/configuredHtml/1258/86752/login.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Click Here<span class="ext"><span class="element-invisible">(link is external)</span></span></a>        </td><td class="views-field views-field-changed" style="display: table-cell;">
+          05-12-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/result/398583" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-12-05T00:00:00+05:30" class="date-display-single">05-12-2024</span></div></a>        </td></tr><tr class="even">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          Notification for Engagement of Graduate/Diploma/ITI Apprentices (under Apprentices Act,1961) for FY 2024-25 in the O/o Airport Director, Airports Authority of India, NSCBI Airport, Kolkata        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Engineering        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          35        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2024-12-05T00:00:00+05:30" class="date-display-single">05-12-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/541180" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-12-05T00:00:00+05:30" class="date-display-single">05-12-2024</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          05-12-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="odd">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          Advertisement on AAI website for engagement of Junior Consultant (Clinical Psychologist) in AAI-NR        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Information Technology        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          1        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2024-12-03T00:00:00+05:30" class="date-display-single">03-12-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/540499" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-12-03T00:00:00+05:30" class="date-display-single">03-12-2024</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          03-12-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="even">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          Engagement of Apprentice for the year 2024-25        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          197        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2024-11-27T00:00:00+05:30" class="date-display-single">27-11-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/539274" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-11-27T00:00:00+05:30" class="date-display-single">27-11-2024</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          29-11-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="odd">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          Engagement of Consultant in Airports Authority of India in Airport System Directorate at CHQ for a period of One Year on Contract basis.  Advertisement No.  06/2024/CHQ.        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          1        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2024-11-26T00:00:00+05:30" class="date-display-single">26-11-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/538466" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-11-26T00:00:00+05:30" class="date-display-single">26-11-2024</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          26-11-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="even">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          DIRECT RECRUITMENT OF JUNIOR EXECUTIVES (AIR TRAFFIC CONTROL) IN AIRPORTS AUTHORITY OF INDIA  ADVERTISEMENT No. 05/2023        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          496        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2023-10-14T00:00:00+05:30" class="date-display-single">14-10-2023</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/383257" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2023-10-23T00:00:00+05:30" class="date-display-single">23-10-2023</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/press-note/383257" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-11-26T00:00:00+05:30" class="date-display-single">26-11-2024</span> </div></a>        </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          <a href="https://cdn.digialm.com/EForms/configuredHtml/1258/85992/Index.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Registration Link<span class="ext"><span class="element-invisible">(link is external)</span></span></a><br><a href="https://cdn.digialm.com//EForms/configuredHtml/1258/85992/login.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Objection Link<span class="ext"><span class="element-invisible">(link is external)</span></span></a><br>        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/syllabus/383257" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2023-10-21T00:00:00+05:30" class="date-display-single">21-10-2023</span></div></a>        </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+          <a href="https://cdn.digialm.com:443//EForms/configuredHtml/1258/85992/login.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Click Here<span class="ext"><span class="element-invisible">(link is external)</span></span></a>        </td><td class="views-field views-field-changed" style="display: table-cell;">
+          26-11-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/result/383257" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-10-28T00:00:00+05:30" class="date-display-single">28-10-2024</span></div></a>        </td></tr><tr class="odd">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          Direct Recruitment for ​Junior Assistant (Fire Service) &amp; Jr. Asst (Office), Sr.Asst(Accounts), Sr.Asst (OL) in AAI Southern Region        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          156        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2022-08-25T00:00:00+05:30" class="date-display-single">25-08-2022</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/press-note/284246" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2023-03-21T00:00:00+05:30" class="date-display-single">21-03-2023</span> </div></a>        </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          <a href="https://cdn.digialm.com/EForms/configuredHtml/1258/75579//Instruction.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Registration Link<span class="ext"><span class="element-invisible">(link is external)</span></span></a><br><a href="https://cdn.digialm.com//EForms/configuredHtml/1258/75579/login.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Objection Link<span class="ext"><span class="element-invisible">(link is external)</span></span></a><br>        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/syllabus/284246" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2022-09-15T00:00:00+05:30" class="date-display-single">15-09-2022</span></div></a>        </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+          <a href="https://cdn.digialm.com//EForms/configuredHtml/1258/75579/login.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Click Here<span class="ext"><span class="element-invisible">(link is external)</span></span></a>        </td><td class="views-field views-field-changed" style="display: table-cell;">
+          21-11-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/result/284246" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-11-21T00:00:00+05:30" class="date-display-single">21-11-2024</span></div></a>        </td></tr><tr class="even">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          Direct Recruitment for ​Jr.Asst (Fire Service) under SRD, Jr. Asst (Office), Sr.Asst(Electronics), Sr.Asst(Accounts) in AAI Southern Region -  Advt. No.SR/01/2023        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          119        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2023-12-20T00:00:00+05:30" class="date-display-single">20-12-2023</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/396317" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2023-12-20T00:00:00+05:30" class="date-display-single">20-12-2023</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/press-note/396317" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-02-09T00:00:00+05:30" class="date-display-single">09-02-2024</span> </div></a>        </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          <a href="https://cdn.digialm.com/EForms/configuredHtml/1258/86485/Index.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Registration Link<span class="ext"><span class="element-invisible">(link is external)</span></span></a><br><a href="https://cdn.digialm.com//EForms/configuredHtml/1258/86485/login.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Objection Link<span class="ext"><span class="element-invisible">(link is external)</span></span></a><br>        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/syllabus/396317" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-08-09T00:00:00+05:30" class="date-display-single">09-08-2024</span></div></a>        </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+          <a href="https://cdn.digialm.com/EForms/configuredHtml/1258/86485/login.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Click Here<span class="ext"><span class="element-invisible">(link is external)</span></span></a>        </td><td class="views-field views-field-changed" style="display: table-cell;">
+          19-11-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/result/396317" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-11-19T00:00:00+05:30" class="date-display-single">19-11-2024</span></div></a>        </td></tr><tr class="odd">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          Advertisement for engagement of Jr. Consultants (Terminal/Airside Management) at Chennai Airport        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          6        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2024-11-08T00:00:00+05:30" class="date-display-single">08-11-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/532757" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-11-08T00:00:00+05:30" class="date-display-single">08-11-2024</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          08-11-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="even">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          Engagement  of Apprentice for the year 2024-25        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          HR        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          90        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2024-10-28T00:00:00+05:30" class="date-display-single">28-10-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/525584" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-10-28T00:00:00+05:30" class="date-display-single">28-10-2024</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          28-10-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="odd">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          RECRUITMENT OF JUNIOR ASSISTANTS, SENIOR ASSISTANTS AND JUNIOR EXECUTIVES IN VARIOUS DISCIPLINES IN AIRPORTS AUTHORITY OF INDIA UNDER ADVERTISEMENT No. 03/2023        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          342        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2023-07-21T00:00:00+05:30" class="date-display-single">21-07-2023</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/365082" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2023-08-08T00:00:00+05:30" class="date-display-single">08-08-2023</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/press-note/365082" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-09-13T00:00:00+05:30" class="date-display-single">13-09-2024</span> </div></a>        </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          <a href="https://ibpsonline.ibps.in/aaijsaejun23/" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Registration Link<span class="ext"><span class="element-invisible">(link is external)</span></span></a><br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/syllabus/365082" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2023-10-23T00:00:00+05:30" class="date-display-single">23-10-2023</span></div></a>        </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+          <a href="http://ibpsonline.ibps.in/aaijsaejun23/oecla_oct23/login.php?appid=20bc49bc43e96d18a5361b6d95285390" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Click Here<span class="ext"><span class="element-invisible">(link is external)</span></span></a>        </td><td class="views-field views-field-changed" style="display: table-cell;">
+          22-10-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/result/365082" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-10-22T00:00:00+05:30" class="date-display-single">22-10-2024</span></div></a>        </td></tr><tr class="even">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          Engagement of Medical Consultant (Non- Specialist Doctor) in Airports Authority of India, Regional Headquarters, Eastern Region, Kolkata.        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Medical        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          1        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2024-10-14T00:00:00+05:30" class="date-display-single">14-10-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/494680" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-10-14T00:00:00+05:30" class="date-display-single">14-10-2024</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          15-10-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="odd">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          NOTIFICATION FOR ENGAGEMENT OF MEDICAL CONSULTANT (SPECIALIST DOCTOR) ON CONTRACTUAL BASIS IN AIRPORTS AUTHORITY OF INDIA FOR RAJIV GANDHI BHAWAN NEW DELHI AND INA MEDICAL CENTRE, NEW DELHI        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          2        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2024-10-11T00:00:00+05:30" class="date-display-single">11-10-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/494011" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-10-11T00:00:00+05:30" class="date-display-single">11-10-2024</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          11-10-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="even">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          DIRECT RECRUITMENT OF JUNIOR EXECUTIVES THROUGH GATE 2024 IN AIRPORTS AUTHORITY OF INDIA ADVERTISEMENT No. 02/2024/CHQ        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          490        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2024-02-23T00:00:00+05:30" class="date-display-single">23-02-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/411736" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-02-23T00:00:00+05:30" class="date-display-single">23-02-2024</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/press-note/411736" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-07-12T00:00:00+05:30" class="date-display-single">12-07-2024</span> </div></a>        </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          10-10-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/result/411736" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-10-10T00:00:00+05:30" class="date-display-single">10-10-2024</span></div></a>        </td></tr><tr class="odd">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          Advertisement for Engagement of Apprentices in Eastern Region 2024-25        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Engineering        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          135        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2024-10-08T00:00:00+05:30" class="date-display-single">08-10-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/486968" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-10-08T00:00:00+05:30" class="date-display-single">08-10-2024</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          08-10-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="even">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          Engagement of Jr. Consultant (CNS) for various RCS Airports Under Eastern Region.        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          CNS-OM        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          7        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2024-08-30T00:00:00+05:30" class="date-display-single">30-08-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/463581" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-08-30T00:00:00+05:30" class="date-display-single">30-08-2024</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          30-08-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="odd">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          NOTIFICATION FOR ENGAGEMENT OF MEDICAL CONSULTANT (NON-SPECIALIST DOCTOR) ON CONTRACTUAL BASIS AT AIRPORTS AUTHORITY OF INDIA, INA MEDICAL CENTRE, NEW DELHI        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          1        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2024-06-21T00:00:00+05:30" class="date-display-single">21-06-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/444133" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-06-21T00:00:00+05:30" class="date-display-single">21-06-2024</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          14-08-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="even">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          DIRECT RECRUITMENT FOR THE POST OF MANAGER (ELECTRONICS) UNDER ADVERTISEMENT NO 02/2018        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          HR        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          324        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2024-04-30T00:00:00+05:30" class="date-display-single">30-04-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/press-note/430878" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-08-10T00:00:00+05:30" class="date-display-single">10-08-2024</span> </div></a>        </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          10-08-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/result/430878" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-05-01T00:00:00+05:30" class="date-display-single">01-05-2024</span></div></a>        </td></tr><tr class="odd">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+           प्रोविशनल सेलेक्शन लिस्ट ऑफ वरिष्ठ सहायक ( इलेक्ट्रॉनिक्स ), भाविप्रा, पश्चिमी क्षेत्र, - DR-05/12/2018/WR        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          HR        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          26        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2019-07-04T00:00:00+05:30" class="date-display-single">04-07-2019</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/131629" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2019-07-04T00:00:00+05:30" class="date-display-single">04-07-2019</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          07-08-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/result/131629" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2019-07-04T00:00:00+05:30" class="date-display-single">04-07-2019</span></div></a>        </td></tr><tr class="even">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          RESULT FOR THE ONLINE COMPUTER BASED TEST HELD ON 24/03/2019 FOR THE POST OF SENIOR ASSISTANT (ELECTRONICS),AAI,WR        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          26        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2019-05-02T00:00:00+05:30" class="date-display-single">02-05-2019</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          07-08-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/result/126424" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2019-05-02T00:00:00+05:30" class="date-display-single">02-05-2019</span></div></a>        </td></tr><tr class="odd">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          Engagement of Company Secretary at Deoghar Airport Limited Reg.        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          1        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2024-07-31T00:00:00+05:30" class="date-display-single">31-07-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/455082" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-07-31T00:00:00+05:30" class="date-display-single">31-07-2024</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          31-07-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="even">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          Direct Recruitment for Non-Executive Cadres in AAI North Eastern Region under Advt. No.04/2022/DR/NER        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          18        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2023-07-04T00:00:00+05:30" class="date-display-single">04-07-2023</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/272468" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2022-06-30T00:00:00+05:30" class="date-display-single">30-06-2022</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/press-note/272468" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2022-09-02T00:00:00+05:30" class="date-display-single">02-09-2022</span> </div></a>        </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          <a href="https://cdn.digialm.com//EForms/configuredHtml/1258/77011//Instruction.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Registration Link<span class="ext"><span class="element-invisible">(link is external)</span></span></a><br><a href="https://cdn.digialm.com//EForms/configuredHtml/1258/77011/login.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Objection Link<span class="ext"><span class="element-invisible">(link is external)</span></span></a><br>        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/syllabus/272468" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2022-09-22T00:00:00+05:30" class="date-display-single">22-09-2022</span></div></a>        </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+          <a href="https://cdn.digialm.com//EForms/configuredHtml/1258/77011/login.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Click Here<span class="ext"><span class="element-invisible">(link is external)</span></span></a>        </td><td class="views-field views-field-changed" style="display: table-cell;">
+          26-07-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/result/272468" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-07-26T00:00:00+05:30" class="date-display-single">26-07-2024</span></div></a>        </td></tr><tr class="odd">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          Direct Recruitment for Non-Executive Cadres in AAI North Eastern Region under Advt. No.04/2022/DR/NER        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          18        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2023-03-31T00:00:00+05:30" class="date-display-single">31-03-2023</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/272468" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2022-06-30T00:00:00+05:30" class="date-display-single">30-06-2022</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/press-note/272468" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2022-09-02T00:00:00+05:30" class="date-display-single">02-09-2022</span> </div></a>        </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          <a href="https://cdn.digialm.com//EForms/configuredHtml/1258/77011//Instruction.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Registration Link<span class="ext"><span class="element-invisible">(link is external)</span></span></a><br><a href="https://cdn.digialm.com//EForms/configuredHtml/1258/77011/login.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Objection Link<span class="ext"><span class="element-invisible">(link is external)</span></span></a><br>        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/syllabus/272468" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2022-09-22T00:00:00+05:30" class="date-display-single">22-09-2022</span></div></a>        </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+          <a href="https://cdn.digialm.com//EForms/configuredHtml/1258/77011/login.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Click Here<span class="ext"><span class="element-invisible">(link is external)</span></span></a>        </td><td class="views-field views-field-changed" style="display: table-cell;">
+          26-07-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/result/272468" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-07-26T00:00:00+05:30" class="date-display-single">26-07-2024</span></div></a>        </td></tr><tr class="even">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          Engagement of Company Secretary at Deoghar Airport Limited Reg.        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          1        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2024-06-04T00:00:00+05:30" class="date-display-single">04-06-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/440674" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-06-04T00:00:00+05:30" class="date-display-single">04-06-2024</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          07-06-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="odd">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          ENGAGEMENT OF MEDICAL CONSULTANTS IN AIRPORTS AUTHORITY OF INDIA FOR A PERIOD OF THREE YEARS ON CONTRACT BASIS.        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          2        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2024-05-29T00:00:00+05:30" class="date-display-single">29-05-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/438595" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-05-29T00:00:00+05:30" class="date-display-single">29-05-2024</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/press-note/438595" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-05-29T00:00:00+05:30" class="date-display-single">29-05-2024</span> </div></a>        </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          29-05-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="even">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          ENGAGEMENT OF CONSULTANTS IN AAI IN CSR DIRECTORATE AT CHQ FOR A PERIOD OF ONE YEAR ON CONTRACT BASIS        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          3        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2024-05-24T00:00:00+05:30" class="date-display-single">24-05-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/437447" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-05-24T00:00:00+05:30" class="date-display-single">24-05-2024</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          24-05-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="odd">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          Engagement of Consultants in AAI in Survey &amp; Carto Section, ATM Dte at CHQ        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          6        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2024-05-09T00:00:00+05:30" class="date-display-single">09-05-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/433032" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-05-09T00:00:00+05:30" class="date-display-single">09-05-2024</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          09-05-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="even">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          क्षेत्रीय मुख्यालय, उत्तर-पूर्वी क्षेत्र, गुवाहाटी के भूमि प्रबंधन विभाग में परामर्शदाता की नियुक्ति Engagement of Consultant in Land Management for RHQ, NER Guwahati        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          HR        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          1        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2024-04-30T00:00:00+05:30" class="date-display-single">30-04-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/430748" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-04-30T00:00:00+05:30" class="date-display-single">30-04-2024</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          30-04-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="odd">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          DIRECT RECRUITMENT OF JUNIOR EXECUTIVES THROUGH GATE 2024 IN AIRPORTS AUTHORITY OF INDIA  ADVERTISEMENT No. 02/2024/CHQ        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          490        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2024-02-19T00:00:00+05:30" class="date-display-single">19-02-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/410680" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-02-23T00:00:00+05:30" class="date-display-single">23-02-2024</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          <a href="https://cdn.digialm.com//EForms/configuredHtml/1258/88079/Index.html " target="_blank" data-extlink="" class="external-link external-link-popup-processed">Registration Link<span class="ext"><span class="element-invisible">(link is external)</span></span></a><br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          02-04-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="even">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          RECRUITMENT FOR VARIOUS POSTS IN OFFICIAL LANGUAGE AND AIR TRAFFIC CONTROL UNDER ADVERTISEMENT NO. 08/2022        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          364        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2022-12-09T00:00:00+05:30" class="date-display-single">09-12-2022</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/308276" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2022-12-27T00:00:00+05:30" class="date-display-single">27-12-2022</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/press-note/308276" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-03-22T00:00:00+05:30" class="date-display-single">22-03-2024</span> </div></a>        </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          <a href="https://cdn.digialm.com/EForms/configuredHtml/1258/80268/Instruction.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Registration Link<span class="ext"><span class="element-invisible">(link is external)</span></span></a><br><a href="https://cdn.digialm.com//EForms/configuredHtml/1258/80268/login.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Objection Link<span class="ext"><span class="element-invisible">(link is external)</span></span></a><br>        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/syllabus/308276" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2022-12-14T00:00:00+05:30" class="date-display-single">14-12-2022</span></div></a>        </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+          <a href="https://cdn.digialm.com:443//EForms/configuredHtml/1258/80268/login.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Click Here<span class="ext"><span class="element-invisible">(link is external)</span></span></a>        </td><td class="views-field views-field-changed" style="display: table-cell;">
+          22-03-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/result/308276" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2023-10-13T00:00:00+05:30" class="date-display-single">13-10-2023</span></div></a>        </td></tr><tr class="odd">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          ENGAGEMENT OF YOUNG PROFESSIONALS (YPs) IN THE DIRECTORATE OF PLANNING OF AIRPORTS AUTHORITY OF INDIA ON CONTRACT BASIS FOR A PERIOD OF ONE YEAR        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          10        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2023-08-25T00:00:00+05:30" class="date-display-single">25-08-2023</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/372478" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2023-08-25T00:00:00+05:30" class="date-display-single">25-08-2023</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/press-note/372478" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2023-08-25T00:00:00+05:30" class="date-display-single">25-08-2023</span> </div></a>        </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          21-02-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/result/372478" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-02-21T00:00:00+05:30" class="date-display-single">21-02-2024</span></div></a>        </td></tr><tr class="even">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+           ENGAGEMENT OF MEDICAL CONSULTANT  (NON-SPECIALIST) ON CONTRACTUAL BASIS AT AIRPORTS AUTHORITY OF INDIA, WESTERN REGION, MUMBAI        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          HR        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          1        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2024-02-20T00:00:00+05:30" class="date-display-single">20-02-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/410979" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-02-20T00:00:00+05:30" class="date-display-single">20-02-2024</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          20-02-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="odd">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          Engagement of Consultant (Clinical Psychologist) in Airports Authority of India for a period of One Year on Contract basis        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          1        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2024-01-10T00:00:00+05:30" class="date-display-single">10-01-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/401375" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-01-10T00:00:00+05:30" class="date-display-single">10-01-2024</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/press-note/401375" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-02-14T00:00:00+05:30" class="date-display-single">14-02-2024</span> </div></a>        </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          14-02-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="even">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          Advertisement for Hiring of NSOP post holders (Operational Manager and Nodal Officer) on contract basis at Flight Inspection Unit        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Flight Inspection Unit        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          3        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2024-02-13T00:00:00+05:30" class="date-display-single">13-02-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/409389" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-02-13T00:00:00+05:30" class="date-display-single">13-02-2024</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          13-02-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="odd">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          Cancellation of Recruitment to the Post of Junior Assistant (Fire Service) against Advertisement No. ER/01/2022        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Fire Services        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          32        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2024-02-13T00:00:00+05:30" class="date-display-single">13-02-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/press-note/409325" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-02-13T00:00:00+05:30" class="date-display-single">13-02-2024</span> </div></a>        </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          13-02-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="even">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          DIRECT RECRUITMENT OF NON EXECUTIVES IN VARIOUS DISCIPLINES UNDER  AAI, WESTERN REGION        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          HR        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          55        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2024-02-13T00:00:00+05:30" class="date-display-single">13-02-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/296232" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2022-10-12T00:00:00+05:30" class="date-display-single">12-10-2022</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/press-note/296232" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2023-04-20T00:00:00+05:30" class="date-display-single">20-04-2023</span> </div></a>        </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          <a href="https://cdn.digialm.com/EForms/configuredHtml/1258/79423/Instruction.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Registration Link<span class="ext"><span class="element-invisible">(link is external)</span></span></a><br><a href="https://cdn.digialm.com//EForms/configuredHtml/1258/79423/login.html " target="_blank" data-extlink="" class="external-link external-link-popup-processed">Objection Link<span class="ext"><span class="element-invisible">(link is external)</span></span></a><br>        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/syllabus/296232" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2022-10-27T00:00:00+05:30" class="date-display-single">27-10-2022</span></div></a>        </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+          <a href="https://cdn.digialm.com//EForms/configuredHtml/1258/79423/login.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Click Here<span class="ext"><span class="element-invisible">(link is external)</span></span></a>        </td><td class="views-field views-field-changed" style="display: table-cell;">
+          13-02-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/result/296232" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-02-13T00:00:00+05:30" class="date-display-single">13-02-2024</span></div></a>        </td></tr><tr class="odd">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          Notification for Engagement of Graduate/Diploma Apprentice, and ITI Apprentices (under Apprentices Act, 1961) for FY 2023-24 in Airports Authority of India, NSCBI Airport, Kolkata        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          30        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2024-01-18T00:00:00+05:30" class="date-display-single">18-01-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/403101" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-01-18T00:00:00+05:30" class="date-display-single">18-01-2024</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          18-01-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="even">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          Engagement of a Research Advisor at Civil Aviation Research Organization (CARO), Hyderabad on a contract basis for two years, extendable for one year, based on the requirement of AAI.        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Air Traffic Management        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          1        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2024-01-15T00:00:00+05:30" class="date-display-single">15-01-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/402507" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-01-15T00:00:00+05:30" class="date-display-single">15-01-2024</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          15-01-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="odd">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          Selection for the Post of Member(Planning)        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Planning        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          1        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2023-12-22T00:00:00+05:30" class="date-display-single">22-12-2023</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/396980" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2023-12-22T00:00:00+05:30" class="date-display-single">22-12-2023</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/press-note/396980" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-01-12T00:00:00+05:30" class="date-display-single">12-01-2024</span> </div></a>        </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          12-01-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="even">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          Notification for Engagement of Graduate/Diploma/ITI Apprentices (under Apprentices Act,1961) for year 2023-24 in Airports Authority of India, Eastern Region        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          HR        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          130        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2024-01-10T00:00:00+05:30" class="date-display-single">10-01-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/401376" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-01-10T00:00:00+05:30" class="date-display-single">10-01-2024</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          10-01-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="odd">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          ENGAGEMENT OF RETIRED OFFICERS AS OPS CONSULTANT IN NR        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          5        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2024-01-10T00:00:00+05:30" class="date-display-single">10-01-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/401311" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-01-10T00:00:00+05:30" class="date-display-single">10-01-2024</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          10-01-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="even">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          ENGAGEMENT OF APPRENTICES FOR THE YEAR 2023-24 IN NER        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          85        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2023-12-29T00:00:00+05:30" class="date-display-single">29-12-2023</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/398508" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2023-12-29T00:00:00+05:30" class="date-display-single">29-12-2023</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/press-note/398508" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-01-02T00:00:00+05:30" class="date-display-single">02-01-2024</span> </div></a>        </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          02-01-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="odd">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          ENGAGEMENT OF CONSULTANT (RETD. - ATCOs FROM AAI) AT HYDERABAD TRAINING CENTRE, AAI, HYDERABAD ON CONTRACT BASIS        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          3        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2023-11-17T00:00:00+05:30" class="date-display-single">17-11-2023</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/389547" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2023-11-17T00:00:00+05:30" class="date-display-single">17-11-2023</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/press-note/389547" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2023-12-15T00:00:00+05:30" class="date-display-single">15-12-2023</span> </div></a>        </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          15-12-2023        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="even">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          RECRUITMENT OF EXECUTIVES THROUGH GATE 2020/GATE 2021/GATE 2022        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          HR        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          596        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2022-12-08T00:00:00+05:30" class="date-display-single">08-12-2022</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/307779" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2023-01-12T00:00:00+05:30" class="date-display-single">12-01-2023</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/press-note/307779" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2023-12-11T00:00:00+05:30" class="date-display-single">11-12-2023</span> </div></a>        </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          <a href="https://cdn.digialm.com//EForms/configuredHtml/1258/80643/Index.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Registration Link<span class="ext"><span class="element-invisible">(link is external)</span></span></a><br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+          <a href="https://cdn.digialm.com//EForms/configuredHtml/1258/80643/login.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Click Here<span class="ext"><span class="element-invisible">(link is external)</span></span></a>        </td><td class="views-field views-field-changed" style="display: table-cell;">
+          11-12-2023        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/result/307779" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2023-06-14T00:00:00+05:30" class="date-display-single">14-06-2023</span></div></a>        </td></tr><tr class="odd">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          Engagement of Apprentices in Northern Region, AAI FY 2023-24        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          185        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2023-11-16T00:00:00+05:30" class="date-display-single">16-11-2023</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/389249" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2023-11-16T00:00:00+05:30" class="date-display-single">16-11-2023</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/press-note/389249" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2023-12-01T00:00:00+05:30" class="date-display-single">01-12-2023</span> </div></a>        </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          01-12-2023        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="even">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          Advertisement for Hiring of NSOP post holders (Quality Manager, Operational Manager and Nodal Officer) on contract basis at Flight Inspection Unit        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Flight Inspection Unit        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          4        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2023-10-10T00:00:00+05:30" class="date-display-single">10-10-2023</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/382220" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2023-10-10T00:00:00+05:30" class="date-display-single">10-10-2023</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          21-11-2023        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="odd">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          ENGAGEMENT OF YOUNG PROFESSIONALS (YPs) IN OPERATIONS DIRECTORATE IN AIRPORTS AUTHORITY OF INDIA FOR A PERIOD OF ONE YEAR ON CONTRACT BASIS        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          5        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2023-11-08T00:00:00+05:30" class="date-display-single">08-11-2023</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/387673" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2023-11-08T00:00:00+05:30" class="date-display-single">08-11-2023</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          08-11-2023        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="even">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          Notification for Advertisement- Engagement for 02 Medical Consultants (Non-specialist Doctor) on contractual basis at AAI, INA Medical centre, New Delhi        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          2        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2023-11-07T00:00:00+05:30" class="date-display-single">07-11-2023</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/387537" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2023-11-07T00:00:00+05:30" class="date-display-single">07-11-2023</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          07-11-2023        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="odd">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          ENGAGEMENT OF MEDICAL CONSULTANT (NON-SPECIALIST DOCOR AT AIRPORTS AUTHORITY OF INDIA, REGIONAL HEAD QUARTERS, SOUTHERN REGION, CHENNAI        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          1        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2023-10-12T00:00:00+05:30" class="date-display-single">12-10-2023</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/382788" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2023-10-13T00:00:00+05:30" class="date-display-single">13-10-2023</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          12-10-2023        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr><tr class="even views-row-last">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          INDICATIVE NOTICE - DIRECT RECRUITMENT FOR THE POST OF JUNIOR EXECUTIVE (AIR TRAFFIC CONTROL) IN AAI        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          N/A        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2023-10-03T00:00:00+05:30" class="date-display-single">03-10-2023</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/380173" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2023-10-02T00:00:00+05:30" class="date-display-single">02-10-2023</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          03-10-2023        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+                  </td></tr></tbody>
+</table>

@@ -1,0 +1,1023 @@
+<table cellpadding="0" cellspacing="0" class="responsive-table">
+                  <thead>
+                    <tr>
+                      <th scope="col">S.No</th>
+                      <th scope="col">Vacancy Circular Notification</th>
+                      <th scope="col">Post</th>
+                      <th scope="col">No.of Post</th>
+                      <th scope="col">Issue  Date   </th>
+		      <th scope="col">Closing Date</th>
+                      <th scope="col">  Result</th>
+
+                    </tr>
+                  </thead>
+
+
+                  <tbody>
+
+			 <tr>
+                                <td data-title="S.no">95</td>
+                                <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Notification for engagement of Apprentice-SZ.pdf" target="_blank">IRCTC/ SZ/ HRD/Apprentice<img src="assets/images/new_admissions.gif "></a></td>
+                                <td data-title="">APPRENTICE</td>
+                                <td data-title="No. of Post">08</td>
+                                <td data-title="Issue Date">04.12.2024</td>
+                                <td data-title="Closing Date">17.12.2024</td> 
+                                <td data-title="Result"> </td>                    
+                        </tr>
+
+
+                        <tr>
+                                <td data-title="S.no">94</td>
+                                <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Notification_and_form_for_Manager_Rajbhasha(18-11-2024).pdf" target="_blank">2020/IRCTC/HRD/RAJBHASA/NOTIFICATION</a></td>
+                                <td data-title="">Manager</td>
+                                <td data-title="No. of Post">01</td>
+                                <td data-title="Issue Date">13.11.2024</td>
+                                <td data-title="Closing Date">05.12.2024</td> 
+                                <td data-title="Result"> </td>                    
+                        </tr>
+
+                        <tr>
+                                <td data-title="S.no">93</td>
+                                <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Engagement of APPRENTICE in IRCTC-WZ for FY 2024-2025.pdf" target="_blank">No. 2024-25/IRCTC/WZ/Apprentice/COPA</a></td>
+                                <td data-title="">Apprentices</td>
+                                <td data-title="No. of Post">12</td>
+                                <td data-title="Issue Date">07.11.2024</td>
+                                <td data-title="Closing Date">22.11.2024</td> 
+                                <td data-title="Result"> </td>                    
+                        </tr>
+
+			<tr>
+                                <td data-title="S.no">92</td>
+                                <td data-title="Post"> <a href="https://www.irctc.com/assets/images/COPA-EZ-22-10-2024-25.pdf" target="_blank">No.2024/IRCTC/EZ/HRD/Apprentices Date:22.10.2024</a></td>
+                                <td data-title="">Apprentices</td>
+                                <td data-title="No. of Post">12</td>
+                                <td data-title="Issue Date">22.10.2024</td>
+                                <td data-title="Closing Date">05.11.2024</td> 
+                                <td data-title="Result"> </td>                    
+                        </tr>
+
+
+                        <tr>
+                                <td data-title="S.no">91</td>
+                                <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Notifction for Walk-in-Interview-HM--Contract-SZ_25-09-2024.pdf" target="_blank">Notification for Walk-in-Interview Engagement of Hospitality monitors on Contractual basis IRCTC/South Zone</a></td>
+                                <td data-title="">Hospitality Monitor</td>
+                                <td data-title="No. of Post">33</td>
+                                <td data-title="Issue Date">25.09.2024</td>
+                                <td data-title="Closing Date">08.10.2024</td> 
+                                <td data-title="Result"> </td>                    
+                        </tr>
+
+			<tr>
+                                <td data-title="S.no">90</td>
+                                <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Notification_Hospitality_Monitor_18_09_2024.pdf" target="_blank">Notification for walk-in interview of Hospitality Monitor on contractual basis under IRCTC North Zone</a></td>
+                                <td data-title="">Hospitality Monitor</td>
+                                <td data-title="No. of Post">15</td>
+                                <td data-title="Issue Date">18.09.2024</td>
+                                <td data-title="Closing Date">25.10.2024</td> 
+                                <td data-title="Result"> </td>                    
+                        </tr> 
+
+
+			<tr>
+                                <td data-title="S.no">89</td>
+                                <td data-title="Post"> <a href="https://www.irctc.com/assets/images/WalkIn_18_09_2024.pdf" target="_blank">Notification for walk-in interview of Tourism Monitor on contractual basis under IRCTC North Zone</a></td>
+                                <td data-title="">Tourism Monitor</td>
+                                <td data-title="No. of Post">5</td>
+                                <td data-title="Issue Date">18.09.2024</td>
+                                <td data-title="Closing Date">15.10.2024</td> 
+                                <td data-title="Result"> </td>                    
+                        </tr> 
+
+			<tr>
+                                <td data-title="S.no">88</td>
+                                <td data-title="Post"> <a href="https://www.irctc.com/assets/images/WalkIn_30_08_2024.pdf" target="_blank">Notification for Walk-in-Interview Engagement of 'Qualified CA/CMA' on Contractual basis IRCTC - South Central Zone</a></td>
+                                <td data-title="">Qualified CA/CMA</td>
+                                <td data-title="No. of Post">2</td>
+                                <td data-title="Issue Date">30.08.2024</td>
+                                <td data-title="Closing Date">19.09.2024</td> 
+                                <td data-title="Result"> </td>                    
+                        </tr> 
+
+			<tr>
+                                <td data-title="S.no">87</td>
+                                <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Adviser_eng2_20_08_2024.pdf" target="_blank">Advertisement for engagement of Advisor/IT in IT Anti-Fraud Cell at IRCTC Corporate office/IRCTC/New Delhi on Temporary basis </a></td>
+                                <td data-title="">Advisor/IT in IT Anti-Fraud Cell (Retired from Central Govt. (HAG &amp; above) )</td>
+                                <td data-title="No. of Post">1</td>
+                                <td data-title="Issue Date">21.08.2024</td>
+                                <td data-title="Closing Date">12.09.2024</td> 
+                                <td data-title="Result"> </td>                    
+                        </tr>
+
+			<tr>
+                                <td data-title="S.no">86</td>
+                                <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Adviser_eng_02_08_2024.pdf" target="_blank">Advertisement for engagement of(HR) at Corporate Office/IRCTC/New Delhi</a></td>
+                                <td data-title="">Advertisement for engagement of Adviser(HR) at Corporate Office/IRCTC/New Delhi</td>
+                                <td data-title="No. of Post">1</td>
+                                <td data-title="Issue Date">02.08.2024</td>
+                                <td data-title="Closing Date">23.08.2024</td> 
+                                <td data-title="Result"> </td>                    
+                        </tr>
+
+
+			<tr>
+                                <td data-title="S.no">85</td>
+                                <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Adververtisement for consultant finance RNP DNR 02_08_2024.pdf" target="_blank">Advertisement for Engagement of Consultant Finance for Railneer Plant- Danapur, IRCTC, East Zone</a></td>
+                                <td data-title="">Advertisement for Engagement of Consultant Finance for Railneer Plant- Danapur, IRCTC, East Zone</td>
+                                <td data-title="No. of Post">1</td>
+                                <td data-title="Issue Date">02.08.2024</td>
+                                <td data-title="Closing Date">15.08.2024</td> 
+                                <td data-title="Result"> </td>                    
+                        </tr>
+
+
+
+                        <tr>
+                                <td data-title="S.no">84</td>
+                                <td data-title="Post"> <a href="https://www.irctc.com/assets/images/TM Notification Advisor_Tourism &amp; IT 25.07.2024.pdf" target="_blank">Advertisement for engagement of Advisor/Toursim &amp; IT at Corporate Office/IRCTC/New Delhi on Temporary basis. </a></td>
+                                <td data-title="Vacancy Circular Notification">Advisor/Tourism &amp; IT(Retired from Central Govt. HAG and above OR CPSE Officers of the rank of Executive Directors (E9) and Managing Directors / CMD )</td>
+                                <td data-title="No. of Post">1</td>
+                                <td data-title="Issue Date">25.07.2024</td>
+                                <td data-title="Closing Date">16.08.2024</td> 
+                                <td data-title="Result"> </td>                    
+                        </tr>
+
+                        <tr>
+                                <td data-title="S.no">83</td>
+                                <td data-title="Post"> <a href="https://www.irctc.com/assets/images/TM Notification_Contractual_Tourism Monitors 24.07.2024.pdf" target="_blank">No. IRCTC/EZ/HRD/Recruit. /Contract. /TM-III/2024/02, Dated 01.07.2024  <img src="assets/images/new_admissions.gif "> </a></td>
+                                <td data-title="Vacancy Circular Notification">Notice for Walk-in-Interview for the position of Tourism Monitors (Contractual) under IRCTC/ East Zone</td>
+                                <td data-title="No. of Post">2</td>
+                                <td data-title="Issue Date">01.07.2024</td>
+                                <td data-title="Closing Date">31.07.2024</td> 
+                                <td data-title="Result"> </td>                   
+                        </tr>
+
+
+                        <tr>
+                                <td data-title="S.no">82</td>
+                                <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Venue Notification Hospitality Monitor 19.07.24.pdf" target="_blank">No. IRCTC/EZ/HRD/Recruit. /Contract. /HM-III/2024/03, Dated 19.07.2024  </a></td>
+                                <td data-title="Vacancy Circular Notification">Hospitality Monitor</td>
+                                <td data-title="No. of Post">35</td>
+                                <td data-title="Issue Date">19.07.2024</td>
+                                <td data-title="Closing Date">26.07.2024</td> 
+                                <td data-title="Result"> </td>                   
+                        </tr>
+
+
+                        <tr>
+                                <td data-title="S.no">81</td>
+                                <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Venue Notification Hospitality Monitor 16.07.24.pdf" target="_blank">Venue-Notification for walk-in-interview of Hospitality Monitor on contractual basis at IHM-Hajipur,Patna under East Zone.</a></td>
+                                <td data-title="Vacancy Circular Notification">Hospitality Monitor</td>
+                                <td data-title="No. of Post">-</td>
+                                <td data-title="Issue Date">16.07.2024</td>
+                                <td data-title="Closing Date">26.07.2024</td> 
+                                <td data-title="Result"> </td>                   
+                        </tr>
+
+
+                        <tr>
+                                <td data-title="S.no">80</td>
+                                <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Advertisement for engagement of one post of Advisor Technical at.pdf" target="_blank">Adviser/Technical for Internet Ticketing Centre/IRCTC/New Delhi.</a></td>
+                                <td data-title="Vacancy Circular Notification">Adviser/Technical for Internet Ticketing Centre/IRCTC/New Delhi</td>
+                                <td data-title="No. of Post">1</td>
+                                <td data-title="Issue Date">04.07.2024</td>
+                                <td data-title="Closing Date">26.07.2024</td> 
+                                <td data-title="Result"> </td>                   
+                        </tr>
+
+			<tr>
+                        <td data-title="S.no">79</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/TM Notification_HM-III_2024_01 01.07.2024.pdf" target="_blank">No. IRCTC/EZ/HRD/Recruit./Contract. /HM-III/2024/01, Dated 01.07.2024</a></td>
+                        <td data-title="Vacancy Circular Notification">Notice for Walk-in-Interview for the position of Hospitality Monitors (Contractual) under IRCTC/ East Zone</td>
+                        <td data-title="No. of Post">35</td>
+                        <td data-title="Issue Date">01.07.2024</td>
+                        <td data-title="Closing Date">31.07.2024</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+
+			<tr>
+                        <td data-title="S.no">78</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/TM Notification_Contractual_Tourism Monitors 21.06.2024.pdf" target="_blank">No. IRCTC/EZ/HRD/Recruit./Contract. /TM-III/2024/02, Dated 01.07.2024</a></td>
+                        <td data-title="Vacancy Circular Notification">Notice for Walk-in-Interview for the position of Tourism Monitors (Contractual) under IRCTC/ East Zone</td>
+                        <td data-title="No. of Post">2</td>
+                        <td data-title="Issue Date">01.07.2024</td>
+                        <td data-title="Closing Date">31.07.2024</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+
+
+			<tr>
+                        <td data-title="S.no">77</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/TM Notification 21.06.2024.pdf" target="_blank">No.2024/IRCTC/HRD/WZ/Contractual/Tourism Monitors Dated 21-06-2024</a></td>
+                        <td data-title="Vacancy Circular Notification">No.2024/IRCTC/HRD/WZ/Contractual/Tourism Monitors Dated 21-06-2024</td>
+                        <td data-title="No. of Post">2</td>
+                        <td data-title="Issue Date">21.06.2024</td>
+                        <td data-title="Closing Date">04.07.2024</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+
+			<tr>
+                        <td data-title="S.no">76</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/HM Notification 21.06.2024.pdf" target="_blank">No.2024/IRCTC/HRD/WZ/Contractual/Hospitality Monitor Dated 21-06-2024</a></td>
+                        <td data-title="Vacancy Circular Notification">No.2024/IRCTC/HRD/WZ/Contractual/Hospitality Monitor Dated 21-06-2024</td>
+                        <td data-title="No. of Post">17</td>
+                        <td data-title="Issue Date">21.06.2024</td>
+                        <td data-title="Closing Date">04.07.2024</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+
+
+			<tr>
+                        <td data-title="S.no">75</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Advt-Consultant-INDB17_5_24.pdf" target="_blank">Advertisement for engagement of Consultant at INDORE on temporary basis in Tourism Department of IRCTC/WZ</a></td>
+                        <td data-title="Vacancy Circular Notification">Advertisement for engagement of Consultant at INDORE on temporary basis in Tourism Department of IRCTC/WZ</td>
+                        <td data-title="No. of Post">1</td>
+                        <td data-title="Issue Date">17.05.2024</td>
+                        <td data-title="Closing Date">31.05.2024</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+
+
+			<tr>
+                        <td data-title="S.no">74</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Advt -Consultant - RO-BPL17_5_24.pdf" target="_blank">Advertisement for engagement of Consultants on Temporary basis at BHOPAL in IRCTC/WZ for monitoring and liaisoning Zonal Railways/Railway Board and IRCTC/Zonal/Regional Offices</a></td>
+                        <td data-title="Vacancy Circular Notification">Advertisement for engagement of Consultants on Temporary basis at BHOPAL in IRCTC/WZ for monitoring and liaisoning Zonal Railways/Railway Board and IRCTC/Zonal/Regional Offices</td>
+                        <td data-title="No. of Post">1</td>
+                        <td data-title="Issue Date">17.05.2024</td>
+                        <td data-title="Closing Date">31.05.2024</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+
+
+			<tr>
+                        <td data-title="S.no">73</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Advertisement for Consultant Catering15-5-24.pdf" target="_blank">Advertisement for Consultant (Catering) in IRCTC/corporate Office</a></td>
+                        <td data-title="Vacancy Circular Notification">Advertisement for Consultant (Catering) in IRCTC/corporate Office</td>
+                        <td data-title="No. of Post">1</td>
+                        <td data-title="Issue Date">15.05.2024</td>
+                        <td data-title="Closing Date">07.06.2024</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+
+
+			<tr>
+                        <td data-title="S.no">72</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Advt for Consultant at Patna-26-04-2024.pdf" target="_blank">Advertisement for engagement of Consultant from Operating Department - on temporary basis in IRCTC/East Zone</a></td>
+                        <td data-title="Vacancy Circular Notification">Advertisement for engagement of Consultant from Operating Department - on temporary basis in IRCTC/East Zone</td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date"></td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+
+
+			<tr>
+                        <td data-title="S.no">71</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Dir(Fin)-IRCTC-08-03-2024.pdf" target="_blank">Vacancy of Director Finance  </a></td>
+                        <td data-title="Vacancy Circular Notification">Vacancy of Director Finance.</td>
+                        <td data-title="No. of Post">1 </td>
+                        <td data-title="Issue Date">06.03.2024</td>
+                        <td data-title="Closing Date"></td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+
+
+
+			<tr>
+                        <td data-title="S.no">70</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Advertisement for Graduate Apprentice 2023-24 at IRCTC-EZ-Kolkata-06-03-2024.pdf" target="_blank">Graduate Apprentice   </a></td>
+                        <td data-title="Vacancy Circular Notification">Apprenticeship ID on https://nats.education.gov.in/   AAWB230313135728.</td>
+                        <td data-title="No. of Post"> </td>
+                        <td data-title="Issue Date">06.03.2024
+
+</td>
+                        <td data-title="Closing Date">13.03.2024</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+
+
+			<tr>
+                        <td data-title="S.no">69</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Notification for engagement of Apperntices under NZ 2023-24-14-02-2024.pdf" target="_blank">Apprentices  </a></td>
+                        <td data-title="Vacancy Circular Notification">Notification for engagement of Apprentices under IRCTC North Zone.</td>
+                        <td data-title="No. of Post"> 36</td>
+                        <td data-title="Issue Date">12.02.2024
+
+</td>
+                        <td data-title="Closing Date">27.02.2024</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+
+
+
+     	        <tr>
+                        <td data-title="S.no">68</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Notification for Walk-in-Interview for the post of CA-CMA_WZ 27.12.2023.pdf" target="_blank">Contractual CA &amp; CMA </a></td>
+                        <td data-title="Vacancy Circular Notification">No.2023/IRCTC/HRD/WZ/Contractual/CA/CMA </td>
+                        <td data-title="No. of Post"> 2</td>
+                        <td data-title="Issue Date">27-12-2023</td>
+                        <td data-title="Closing Date">19-01-2024</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+
+		
+
+		 <tr>
+                        <td data-title="S.no">67</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Revised-Notification for the Post of CA &amp; CMA on Contractual Basis at IRCTC,East Zone.pdf" target="_blank">Contractual CA &amp; CMA </a></td>
+                        <td data-title="Vacancy Circular Notification">No.2023/IRCTC/HRD/EZ/Contractual/Finance/CA_CMA/2023</td>
+                        <td data-title="No. of Post">02</td>
+                        <td data-title="Issue Date">26-09-2023</td>
+                        <td data-title="Closing Date">04-10-2023</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+
+			<!--<tr>
+                        <td data-title="S.no">67</td>
+ 		        <td data-title="Post"> <a href="assets/images/CA-CMA VACANCY NOTIFICATION.pdf" target="_blank"> Qualified CA/CMA</td>
+                        <td data-title="Vacancy Circular Notification">No.2023/IRCTC/HRD/WZ/Contractual/CA/CMA Dated 16-09-2023</td>
+                        <td data-title="No. of Post">02</td>
+                        <td data-title="Issue Date">16-09-2023</td>
+                        <td data-title="Closing Date">25-09-2023</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>-->
+
+
+		<tr>
+                        <td data-title="S.no">66</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/WEST ZONE APPRENTICESHIP NOTIFICATION - FY 2023-24 -FINAL.pdf" target="_blank"> Apprentice trainees</a></td>
+                        <td data-title="Vacancy Circular Notification">F.No. 2023/IRCTC/WZ/ HRD/Apprentices Date : 16-09-2023</td>
+                        <td data-title="No. of Post">15</td>
+                        <td data-title="Issue Date">16-09-2023</td>
+                        <td data-title="Closing Date">30-09-2023</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+
+
+
+		<tr>
+                        <td data-title="S.no">65</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Corrigendum-Walk-In Interview for Engagement of Qualified CA &amp; CMA on Contractual Basis at IRCTC, East Zone.pdf" target="_blank">No.2023/IRCTC/HRD/EZ/Rectt.I/2023/Tourism Monitors, dated 30-08-2023</a></td>
+                        <td data-title="Vacancy Circular Notification">CA/CMA on Contractual Basis at IRCTC, East Zone</td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date">14-09-2023</td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+
+ 			<tr>
+                        <td data-title="S.no">64</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Notification - Tourism Monitors on Contractual Basis at IRCTC,East Zone.pdf" target="_blank">No.2023/IRCTC/HRD/EZ/Rectt.I/2023/Tourism Monitors, dated 30-08-2023</a></td>
+                        <td data-title="Vacancy Circular Notification">Contractual Tourism Monitor</td>
+                        <td data-title="No. of Post">3</td>
+                        <td data-title="Issue Date">30-08-2023</td>
+                        <td data-title="Closing Date">09-09-2023	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+
+
+			 <tr>
+                        <td data-title="S.no">63</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Notification - CA &amp; CMA on Contractual Basis at IRCTC,East Zone.pdf" target="_blank">No.2023/IRCTC/HRD/EZ/Contractual/Finance/CA_CMA/2023,dated 30-08-2023</a></td>
+                        <td data-title="Vacancy Circular Notification">Contractual CA &amp; CMA</td>
+                        <td data-title="No. of Post">2</td>
+                        <td data-title="Issue Date">30-08-2023</td>
+                        <td data-title="Closing Date">16-09-2023	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+
+                      <tr>
+                        <td data-title="S.no">62</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Advertisement for Conslt Tourism for EZ.pdf" target="_blank">Engagement of Consultant Tourism on Temporary basis in IRCTC/ East Zone</a></td>
+                        <td data-title="Vacancy Circular Notification">Consultant</td>
+                        <td data-title="No. of Post">2</td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+
+
+				
+					
+			  <tr>
+                        <td data-title="S.no">61</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Advertisement for Re-employment of Retired Govt.CPSE employees for Finance.pdf" target="_blank">Advertisement for Re-employment of Retired Govt./CPSE employees for Finance for East Zone </a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+
+  <tr>
+                        <td data-title="S.no">60</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Corrigendum22.pdf" target="_blank"> Engagement of Apprentices in IRCTC/SZ (2023-24)-Notification</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+
+  <tr>
+                        <td data-title="S.no">59</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Engagement of Consultant.pdf" target="_blank">Engagement of Consultant for Tourism department</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">58</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/advertisement.pdf" target="_blank">Advertisement for engagement of Consultant/Rajbhasha/CO</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">57</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Notification SCZ For engagement of Apprentices in IRCTC South Central Zone.pdf" target="_blank">Notice for engagement of Apprentices in IRCTC/South Central Zone</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">56</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/engagement one-employment basis in Fin -Dep-SZ.pdf" target="_blank">Advertisement for engagement on re-employment basis in Finance Department of IRCTC/South Zone</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">55</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/WESTZONE TOURISM MONITOR NOTIFICATION 30-06-2023.pdf" target="_blank"> West Zone -  Engagement of Tourism Monitors on Contractual basis</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">54</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/West Zone -  Engagement of Tourism Monitors on Contractual basis.pdf" target="_blank">West Zone Engagement of Hospitality Monitors on Contractual basis</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">53</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Notification for the post of Qualified Chartered Accountant (CA) _ Cost &amp; Management Accountant (CMA).pdf" target="_blank">Notification for the post of Qualified(CA) (CMA)-IRCTC/South Central Zone</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">52</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Notification SZ_15_6_23.pdf" target="_blank">Notice for engagement of Apprentices in IRCTC/South Zone</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">51</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Apprentice advertisement-01-EZ-2023-24.pdf" target="_blank">Advertisement for engagement of apprentices at EZ/Kolkata</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">50</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Hospitality Monitors IRCTCEast Zone 5 6 23.pdf" target="_blank">Walk in Interview for engagement of Hospitality Monitors on Contract basis at IRCTC/East Zone</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">49</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Notice CA_CMA_CS_CO_NZ_Contractual_1_6_23.pdf" target="_blank">Notice for engagement of Qualified CA/CMA/CS on Contractual basis for Corporate Office/North Zone</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">48</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/CORRIGENDUM-Walk-In-Interview for Hospitality Monitor at IRCTC East Zone.pdf" target="_blank">Walk in Interview for Hospitality Monitor at IRCTC East Zone</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">47</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Corriegendum-Walk-in-Interview for engagement of Hospitality Monitors on Contract basis at IRCTCEast Zone.pdf" target="_blank">Walk in Interview for engagement of Hospitality Monitors on Contract basis at IRCTC/East Zone</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">46</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Corriegendum-Walk-in-Interview for engagement of Hospitality Monitors on Contract basis at IRCTCEast Zone.pdf" target="_blank">Walk in Interview for engagement of Hospitality Monitors on Contract basis at IRCTC/East Zone</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">45</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Corriegendum-Walk-in-Interview for engagement of Hospitality Monitors on Contract basis at IRCTCEast Zone.pdf" target="_blank">Walk in Interview for engagement of Hospitality Monitors on Contract basis at IRCTC/East Zone</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">44</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Notice for reemployment of retired personnel20230515_16193017.pdf" target="_blank">Notice for re-employment of retired personnel</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">43</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Corrigendum-Notification-Hospitality Monitor at East Zone.pdf" target="_blank">Walk-in-Interview for engagement of Hospitality Monitors on Contract basis at
+IRCTC/East Zone</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">42</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Recruitment Advertisement _DTM.pdf" target="_blank">Advertisement for Recruitment of Director (Tourism &amp; Marketing)</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">41</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/advertisement of hospitality monitors 5 2023.pdf" target="_blank">Notification for Walk-in-Interview Engagement of Hospitality Monitors on Contractual basis IRCTC / North Zone</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">40</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/adv20230509_17324160.pdf" target="_blank">Advertisement for engaging one consultant in HR department</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">39</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/consultants toursim NZ (extended).pdf" target="_blank">Empanelment of Tourism Consultants on temporary basis under IRCTC North zone</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">38</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/requirement of Rajbhasa Consultant 9523.pdf" target="_blank">Requirement of Rajbhasa Consultant for IRCTC/NZ</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">37</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Notification-Hospital Monitor at IRCTC,East Zone.pdf" target="_blank">Walk-in-Interview for engagement of Hospitality Monitors on Contract basis at
+IRCTC/East Zone</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">36</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Tourism Monitors NZ.pdf" target="_blank">Notice for Walk-in-Interview for the post  Tourism Monitors on Contractual basis at IRCTC/North Zone.</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">35</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Detailed Advt. for Hospitality Monitor - Apr 23.pdf" target="_blank">Notice for Walk-in-Interview for the post of Hospitality Monitors at IRCTC/East Zone.</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">34</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/West Zone - Addendum to Hospitality Monitor Notification.pdf" target="_blank">West Zone - Addendum to Hospitality Monitor Notification</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">33</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/West Zone - Addendum to Tourism Monitor Notification.pdf" target="_blank">West Zone - Addendum to Tourism Monitor Notification</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">32</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/West Zone Corrigendum Hospitality Monitorcc.pdf" target="_blank">West Zone Corrigendum regarding Walk-in-Interview for engagement of 'Hospitality Monitors' on Contract basis</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">31</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/West Zone Tourism Monitor Notification 2023.pdf" target="_blank">Notification for Walk-in-Interview- Engagement of Tourism Monitors on Contractual basis in  IRCTC/West Zone</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">30</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/West Zone Hospitality Monitor Vacancy Notification 2023.pdf" target="_blank">Notification for Walk-in-Interview- Engagement of Hospitality Monitors on Contractual basis in  IRCTC/West Zone </a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">29</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Notification HM2023 South Zone-Annex-II.pdf" target="_blank">Notification for Walk-in-interview for the post of Hospitality Monitors in IRCTC/South Zone, Chennai</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">28</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Notification TM2023 South Zone Annex-I.pdf" target="_blank">Notification for Walk-in-Interview for the post of Tourism Monitors in IRCTC/South Zone, Chennai</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">27</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Notice for Walk-in-Interview for the post of Tourism_Monitors_SCZ.pdf" target="_blank">Notification for Walk-in-Interview-'Tourism Monitors'on Contractual basis in IRCTC/SCZ</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">26</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Notice for Walk-in-Interview for the post of Hospitality_Monitors_SCZ.pdf" target="_blank">Notification for Walk-in-Interview-'Hospitality Monitors'on Contractual basis in IRCTC/SCZ</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">25</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/consultant for services department20230201_11131951.pdf" target="_blank">Advertisement  for hiring of  one consultant in Services department, Corporate Office</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">24</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Adv for consultant Ifra20230120_17250710.pdf" target="_blank">Advertisement for hiring of one consultant (civil) in Infra  department/CO.</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">23</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/ad 12.pdf" target="_blank">Advertisement for hiring of one consultant in IT department (ITC)</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">22</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/01 Notification for engagement of apprentices in IRCTC East Zone, Kolkata  29.12.2022.pdf" target="_blank">Engagement of apprentices in IRCTC, East Zone, Kolkata</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">21</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Notification Rajbhasha Consultant.pdf" target="_blank">Engagement of One Consultant for Rajbhasha in South Zone -reg</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">20</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Notification for engagement of apprentices in IRCTC North Zone, New Delhi pdf.pdf" target="_blank">Engagement of apprentices in IRCTC North Zone, New Delhi</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">19</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Confirmation of interview at Durgapur.pdf" target="_blank">Advertisement of Hospitality Monitor under IRCTC East Zone</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">18</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/WZ Bhopal Interview Corrigendum.pdf" target="_blank">Corrigendum reg. Walk-in-interview for Hospitality Monitors post</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">17</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Notification of IHM Patna.pdf" target="_blank">Interviews of Hospitality Monitor under IRCTCT East Zone</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">16</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/NOTICE.pdf" target="_blank">Notification for Walk-in-Interview for engagement of
+Hospitality/Monitors on Contract basis
+</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">15</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/WZ_Notification Hospitality Monitors.pdf" target="_blank">West Zone Notification for Walk-in-Interview for engagement of 'Hospitality Monitors' on Contract basis</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">14</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Notification COPA.pdf" target="_blank">Engagement of apprentices in IRCTC South-Zone</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">13</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Notification-southzone.pdf" target="_blank">Notice for Walk-in-Interview for the post of Hospitality Monitor on contractual basis of South-Zone</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">12</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/New Microsoft Word Document.pdf" target="_blank">Corrigendum - Notice for Walk-in-Interview for the post of Hospitality Monitor on contractual basis of East-Zone</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">11</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Notification East zone (Latest) (1).pdf" target="_blank">Notice for Walk-in-Interview for the post of Hospitality Monitor on contractual basis of East-Zone</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">10</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Notification - Walk-in-Interview for the post of Hospitality-Monitors_IRCTC_SCZ.pdf" target="_blank">Walk-in-Interview for the post of Hospitality-Monitors over SCZ - Reg</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">9</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Vacancy.pdf" target="_blank">Filling up Five posts of Executive/Sr. Executive at IT Centre/New Delhi on deputation in IRCTC</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">8</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/VN 08 2021 AM SECRETARIA.pdf" target="_blank">Filling up the post in Company Secretariat Department of IRCTC in the grade of E-2 (IDA Pattern) Immediate Absorption basis</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">7</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Filling up the post of E2 level - Secrerariate Deptt..pdf" target="_blank">Filling up the post of E2 level - Secrerariate Deptt</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">6</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Proforma prescribed for the recruitment of Manager Official Language.pdf" target="_blank">Proforma prescribed for the recruitment of Manager Official Language</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">5</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Rajbhasha.pdf" target="_blank">Notification to fill up the vacancies from E-0 to E-3 / Official Language Department / IRCTC / CO / New Delhi</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">4</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/E2 CS.pdf" target="_blank">Notification to fill up the post of AM/Secretarial on Immediate Absorption basis</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">3</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Notification AM Fin IA.pdf" target="_blank">Notification for Immediate absorption to the post of AM/Finance</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">2</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Recruitment ad for CMD IRCTC.pdf" target="_blank">Recruitment ad for CMD IRCTC</a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  <tr>
+                        <td data-title="S.no">1</td>
+ 		        <td data-title="Post"> <a href="https://www.irctc.com/assets/images/IRCTC 4x6cm-converted.pdf" target="_blank">Recruitment advertisement for the post of DCS </a></td>
+                        <td data-title="Vacancy Circular Notification"></td>
+                        <td data-title="No. of Post"></td>
+                        <td data-title="Issue Date"></td>
+                        <td data-title="Closing Date">	</td> 
+			<td data-title="Result"> </td>                   
+                      </tr>
+                     
+  
+			                        
+                     </tbody>
+                  
+
+                </table>
