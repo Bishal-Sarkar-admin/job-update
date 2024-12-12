@@ -98,8 +98,8 @@
           <a href="https://cdn.digialm.com//EForms/configuredHtml/1258/86752/Index.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Registration Link<span class="ext"><span class="element-invisible">(link is external)</span></span></a><br><a href="https://cdn.digialm.com//EForms/configuredHtml/1258/86752/login.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Objection Link<span class="ext"><span class="element-invisible">(link is external)</span></span></a><br>        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
                   </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
           <a href="https://cdn.digialm.com//EForms/configuredHtml/1258/86752/login.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Click Here<span class="ext"><span class="element-invisible">(link is external)</span></span></a>        </td><td class="views-field views-field-changed" style="display: table-cell;">
-          05-12-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
-          <a href="https://www.aai.aero/en/recruitment/result/398583" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-12-05T00:00:00+05:30" class="date-display-single">05-12-2024</span></div></a>        </td></tr><tr class="even">
+          12-12-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/result/398583" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-12-12T00:00:00+05:30" class="date-display-single">12-12-2024</span></div></a>        </td></tr><tr class="even">
               
               
               
