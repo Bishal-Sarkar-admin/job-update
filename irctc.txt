@@ -15,9 +15,19 @@
 
                   <tbody>
 
+                        <tr>
+                                <td data-title="S.no">96</td>
+                                <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Re-Notification for engagement of Apprentice-SZ.docx" target="_blank">IRCTC/ SZ/ HRD/Apprentice<img src="assets/images/new_admissions.gif "></a></td>
+                                <td data-title="">APPRENTICE</td>
+                                <td data-title="No. of Post">08</td>
+                                <td data-title="Issue Date">19.12.2024</td>
+                                <td data-title="Closing Date">31.12.2024</td> 
+                                <td data-title="Result"> </td>                    
+                        </tr>
+
 			 <tr>
                                 <td data-title="S.no">95</td>
-                                <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Notification for engagement of Apprentice-SZ.pdf" target="_blank">IRCTC/ SZ/ HRD/Apprentice<img src="assets/images/new_admissions.gif "></a></td>
+                                <td data-title="Post"> <a href="https://www.irctc.com/assets/images/Notification for engagement of Apprentice-SZ.pdf" target="_blank">IRCTC/ SZ/ HRD/Apprentice</a></td>
                                 <td data-title="">APPRENTICE</td>
                                 <td data-title="No. of Post">08</td>
                                 <td data-title="Issue Date">04.12.2024</td>
