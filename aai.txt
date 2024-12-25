@@ -89,6 +89,29 @@
               
               
           <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
+          DIRECT RECRUITMENT OF JUNIOR EXECUTIVES THROUGH GATE 2024 IN AIRPORTS AUTHORITY OF INDIA ADVERTISEMENT No. 02/2024/CHQ        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
+          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
+          490        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
+          <span property="dc:date" datatype="xsd:dateTime" content="2024-02-23T00:00:00+05:30" class="date-display-single">23-02-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/release/411736" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-02-23T00:00:00+05:30" class="date-display-single">23-02-2024</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/press-note/411736" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-07-12T00:00:00+05:30" class="date-display-single">12-07-2024</span> </div></a>        </td><td class="views-field views-field-php-1" style="display: table-cell;">
+          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
+                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
+                  </td><td class="views-field views-field-changed" style="display: table-cell;">
+          24-12-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
+          <a href="https://www.aai.aero/en/recruitment/result/411736" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-12-24T00:00:00+05:30" class="date-display-single">24-12-2024</span></div></a>        </td></tr><tr class="even">
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
           DIRECT RECRUITMENT FOR THE POST OF MANAGER (ELECTRONICS) UNDER ADVERTISEMENT NO 02/2018        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
           HR        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
           324        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
@@ -99,7 +122,7 @@
                   </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
                   </td><td class="views-field views-field-changed" style="display: table-cell;">
           23-12-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
-          <a href="https://www.aai.aero/en/recruitment/result/430878" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-12-23T00:00:00+05:30" class="date-display-single">23-12-2024</span></div></a>        </td></tr><tr class="even">
+          <a href="https://www.aai.aero/en/recruitment/result/430878" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-12-23T00:00:00+05:30" class="date-display-single">23-12-2024</span></div></a>        </td></tr><tr class="odd">
               
               
               
@@ -122,7 +145,7 @@
                   </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
                   </td><td class="views-field views-field-changed" style="display: table-cell;">
           20-12-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
-                  </td></tr><tr class="odd">
+                  </td></tr><tr class="even">
               
               
               
@@ -145,7 +168,7 @@
                   </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
                   </td><td class="views-field views-field-changed" style="display: table-cell;">
           20-12-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
-                  </td></tr><tr class="even">
+                  </td></tr><tr class="odd">
               
               
               
@@ -168,7 +191,7 @@
           <a href="https://www.aai.aero/en/recruitment/syllabus/383257" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2023-10-21T00:00:00+05:30" class="date-display-single">21-10-2023</span></div></a>        </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
           <a href="https://cdn.digialm.com:443//EForms/configuredHtml/1258/85992/login.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Click Here<span class="ext"><span class="element-invisible">(link is external)</span></span></a>        </td><td class="views-field views-field-changed" style="display: table-cell;">
           17-12-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
-          <a href="https://www.aai.aero/en/recruitment/result/383257" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-12-17T00:00:00+05:30" class="date-display-single">17-12-2024</span></div></a>        </td></tr><tr class="odd">
+          <a href="https://www.aai.aero/en/recruitment/result/383257" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-12-17T00:00:00+05:30" class="date-display-single">17-12-2024</span></div></a>        </td></tr><tr class="even">
               
               
               
@@ -191,7 +214,7 @@
                   </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
           <a href="https://cdn.digialm.com//EForms/configuredHtml/1258/86752/login.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Click Here<span class="ext"><span class="element-invisible">(link is external)</span></span></a>        </td><td class="views-field views-field-changed" style="display: table-cell;">
           12-12-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
-          <a href="https://www.aai.aero/en/recruitment/result/398583" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-12-12T00:00:00+05:30" class="date-display-single">12-12-2024</span></div></a>        </td></tr><tr class="even">
+          <a href="https://www.aai.aero/en/recruitment/result/398583" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-12-12T00:00:00+05:30" class="date-display-single">12-12-2024</span></div></a>        </td></tr><tr class="odd">
               
               
               
@@ -214,7 +237,7 @@
                   </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
                   </td><td class="views-field views-field-changed" style="display: table-cell;">
           05-12-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
-                  </td></tr><tr class="odd">
+                  </td></tr><tr class="even">
               
               
               
@@ -237,7 +260,7 @@
                   </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
                   </td><td class="views-field views-field-changed" style="display: table-cell;">
           03-12-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
-                  </td></tr><tr class="even">
+                  </td></tr><tr class="odd">
               
               
               
@@ -260,7 +283,7 @@
                   </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
                   </td><td class="views-field views-field-changed" style="display: table-cell;">
           29-11-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
-                  </td></tr><tr class="odd">
+                  </td></tr><tr class="even">
               
               
               
@@ -283,7 +306,7 @@
                   </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
                   </td><td class="views-field views-field-changed" style="display: table-cell;">
           26-11-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
-                  </td></tr><tr class="even">
+                  </td></tr><tr class="odd">
               
               
               
@@ -306,7 +329,7 @@
           <a href="https://www.aai.aero/en/recruitment/syllabus/284246" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2022-09-15T00:00:00+05:30" class="date-display-single">15-09-2022</span></div></a>        </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
           <a href="https://cdn.digialm.com//EForms/configuredHtml/1258/75579/login.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Click Here<span class="ext"><span class="element-invisible">(link is external)</span></span></a>        </td><td class="views-field views-field-changed" style="display: table-cell;">
           21-11-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
-          <a href="https://www.aai.aero/en/recruitment/result/284246" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-11-21T00:00:00+05:30" class="date-display-single">21-11-2024</span></div></a>        </td></tr><tr class="odd">
+          <a href="https://www.aai.aero/en/recruitment/result/284246" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-11-21T00:00:00+05:30" class="date-display-single">21-11-2024</span></div></a>        </td></tr><tr class="even">
               
               
               
@@ -329,7 +352,7 @@
           <a href="https://www.aai.aero/en/recruitment/syllabus/396317" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-08-09T00:00:00+05:30" class="date-display-single">09-08-2024</span></div></a>        </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
           <a href="https://cdn.digialm.com/EForms/configuredHtml/1258/86485/login.html" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Click Here<span class="ext"><span class="element-invisible">(link is external)</span></span></a>        </td><td class="views-field views-field-changed" style="display: table-cell;">
           19-11-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
-          <a href="https://www.aai.aero/en/recruitment/result/396317" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-11-19T00:00:00+05:30" class="date-display-single">19-11-2024</span></div></a>        </td></tr><tr class="even">
+          <a href="https://www.aai.aero/en/recruitment/result/396317" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-11-19T00:00:00+05:30" class="date-display-single">19-11-2024</span></div></a>        </td></tr><tr class="odd">
               
               
               
@@ -352,7 +375,7 @@
                   </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
                   </td><td class="views-field views-field-changed" style="display: table-cell;">
           08-11-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
-                  </td></tr><tr class="odd">
+                  </td></tr><tr class="even">
               
               
               
@@ -375,7 +398,7 @@
                   </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
                   </td><td class="views-field views-field-changed" style="display: table-cell;">
           28-10-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
-                  </td></tr><tr class="even">
+                  </td></tr><tr class="odd">
               
               
               
@@ -398,7 +421,7 @@
           <a href="https://www.aai.aero/en/recruitment/syllabus/365082" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2023-10-23T00:00:00+05:30" class="date-display-single">23-10-2023</span></div></a>        </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
           <a href="http://ibpsonline.ibps.in/aaijsaejun23/oecla_oct23/login.php?appid=20bc49bc43e96d18a5361b6d95285390" target="_blank" data-extlink="" class="external-link external-link-popup-processed">Click Here<span class="ext"><span class="element-invisible">(link is external)</span></span></a>        </td><td class="views-field views-field-changed" style="display: table-cell;">
           22-10-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
-          <a href="https://www.aai.aero/en/recruitment/result/365082" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-10-22T00:00:00+05:30" class="date-display-single">22-10-2024</span></div></a>        </td></tr><tr class="odd">
+          <a href="https://www.aai.aero/en/recruitment/result/365082" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-10-22T00:00:00+05:30" class="date-display-single">22-10-2024</span></div></a>        </td></tr><tr class="even">
               
               
               
@@ -421,7 +444,7 @@
                   </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
                   </td><td class="views-field views-field-changed" style="display: table-cell;">
           15-10-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
-                  </td></tr><tr class="even">
+                  </td></tr><tr class="odd">
               
               
               
@@ -444,30 +467,7 @@
                   </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
                   </td><td class="views-field views-field-changed" style="display: table-cell;">
           11-10-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
-                  </td></tr><tr class="odd">
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-          <td class="views-field views-field-title footable-first-visible" style="display: table-cell;">
-          DIRECT RECRUITMENT OF JUNIOR EXECUTIVES THROUGH GATE 2024 IN AIRPORTS AUTHORITY OF INDIA ADVERTISEMENT No. 02/2024/CHQ        </td><td class="views-field views-field-field-name-of-department" style="display: table-cell;">
-          Human Resource        </td><td class="views-field views-field-field-total-posts" style="display: table-cell;">
-          490        </td><td class="views-field views-field-field-job-post-date" style="display: table-cell;">
-          <span property="dc:date" datatype="xsd:dateTime" content="2024-02-23T00:00:00+05:30" class="date-display-single">23-02-2024</span>        </td><td class="views-field views-field-field-exam-release-date" style="display: table-cell;">
-          <a href="https://www.aai.aero/en/recruitment/release/411736" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-02-23T00:00:00+05:30" class="date-display-single">23-02-2024</span></div></a>        </td><td class="views-field views-field-field-press-note-release-date" style="display: table-cell;">
-          <a href="https://www.aai.aero/en/recruitment/press-note/411736" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-07-12T00:00:00+05:30" class="date-display-single">12-07-2024</span> </div></a>        </td><td class="views-field views-field-php-1" style="display: table-cell;">
-          --<br>--        </td><td class="views-field views-field-field-syllabus-release-date" style="display: table-cell;">
-                  </td><td class="views-field views-field-field-admit-card" style="display: table-cell;">
-                  </td><td class="views-field views-field-changed" style="display: table-cell;">
-          10-10-2024        </td><td class="views-field views-field-field-result-release-date footable-last-visible" style="display: table-cell;">
-          <a href="https://www.aai.aero/en/recruitment/result/411736" target="_blank"><div>Updated On <span property="dc:date" datatype="xsd:dateTime" content="2024-10-10T00:00:00+05:30" class="date-display-single">10-10-2024</span></div></a>        </td></tr><tr class="even">
+                  </td></tr><tr class="even">
               
               
               
