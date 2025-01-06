@@ -102,7 +102,15 @@
       a:visited {
         color: #6f42c1; /* Purple for visited links */
       }
-
+      a:active {
+        color: #003f7f; /* Even darker blue on click */
+        background-color: rgba(
+          4,
+          143,
+          108,
+          0.2
+        ); /* More intense background highlight */
+      }
       a:focus {
         outline: 2px solid #004085;
         outline-offset: 2px;
@@ -142,11 +150,11 @@
       }
       .zover {
         z-index: 10000; /* Ensures high stacking order */
-        position: absolute; /* Required for z-index to take effect */
+        position: relative; /* Required for z-index to take effect */
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adds a visual highlight */
         transform: scale(1.02); /* Slightly enlarges for emphasis */
         transition: all 0.3s ease; /* Smooth transition effect */
-        top: 1.15em;
+        top: 4rem;
         background-color: #ffffff;
         width: 96vw;
         height: 140vh;
@@ -155,20 +163,16 @@
       /* Adjustments for smaller screens */
       @media (max-width: 768px) {
         .zover {
-          width: 98vw; /* Slightly smaller for mobile viewports */
-          height: auto; /* Allow height to adjust dynamically */
-          top: 0.8em;
-          right: 0%; /* Adjust for smaller screens */
-          padding: 1em; /* Add padding for better usability */
-          overflow: auto; /* Add scrolling for content overflow */
+          top: 6rem;
+          overflow: none;
         }
       }
     </style>
   </head>
   <body>
+    <h1>Recruitment Information</h1>
+    <h5 id="dateupdate">Last Update on</h5>
     <div>
-      <h1>Recruitment Information</h1>
-      <h5 id="dateupdate">Last Update on</h5>
       <ul class="job-list">
         <li onclick="select('drdo.json')">
           DRDO (Defence Research and Development Organisation)
