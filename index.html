@@ -137,17 +137,31 @@
           text-align: center;
         }
       }
-
+      .job-list-display {
+        display: none;
+      }
       .zover {
         z-index: 10000; /* Ensures high stacking order */
         position: absolute; /* Required for z-index to take effect */
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Adds a visual highlight */
-        transform: scale(1.02); /* Optional: Slightly enlarges for emphasis */
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adds a visual highlight */
+        transform: scale(1.02); /* Slightly enlarges for emphasis */
         transition: all 0.3s ease; /* Smooth transition effect */
-        top: 1.1em;
+        top: 1.15em;
         background-color: #ffffff;
         width: 96vw;
         height: 140vh;
+      }
+
+      /* Adjustments for smaller screens */
+      @media (max-width: 768px) {
+        .zover {
+          width: 98vw; /* Slightly smaller for mobile viewports */
+          height: auto; /* Allow height to adjust dynamically */
+          top: 0.8em;
+          right: 0%; /* Adjust for smaller screens */
+          padding: 1em; /* Add padding for better usability */
+          overflow: auto; /* Add scrolling for content overflow */
+        }
       }
     </style>
   </head>
@@ -292,10 +306,11 @@
   <script>
     // Select the target table element
     const table = document.querySelector("table");
-
+    const ulList = document.querySelector("ul");
     // Add an event listener for toggling the class
-    table.addEventListener("click", () => {
+    table.addEventListener("dblclick", () => {
       table.classList.toggle("zover");
+      ulList.classList.toggle("job-list-display");
     });
     document.addEventListener("DOMContentLoaded", function () {
       // Add the event listener after the DOM content is loaded
