@@ -1,6 +1,66 @@
 [
   {
     "srNo": 1,
+    "title": "MIDC   😊   Recruitment of Various Posts || starting date: 08-Jan-25 || ending date: 31-Jan-25",
+    "startdate": "08-Jan-25",
+    "enddate": "31-Jan-25",
+    "links": [
+      {
+        "text": "Apply Link",
+        "url": "https://ibpsonline.ibps.in/midcaug23/"
+      }
+    ]
+  },
+  {
+    "srNo": 2,
+    "title": "DCCB   😊   Recruitment of Assistant Manager/Staff Assistant || starting date: 08-Jan-25 || ending date: 22-Jan-25",
+    "startdate": "08-Jan-25",
+    "enddate": "22-Jan-25",
+    "links": [
+      {
+        "text": "Apply Link",
+        "url": "https://ibpsonline.ibps.in/dccbmarc24/"
+      }
+    ]
+  },
+  {
+    "srNo": 3,
+    "title": "Canara Bank   😊   Engagement of Specialist Officers on contract basis || starting date: 06-Jan-25 || ending date: 24-Jan-25",
+    "startdate": "06-Jan-25",
+    "enddate": "24-Jan-25",
+    "links": [
+      {
+        "text": "Apply Link",
+        "url": "https://ibpsonline.ibps.in/cbsoaug24/"
+      }
+    ]
+  },
+  {
+    "srNo": 4,
+    "title": "JKB   😊   Engagement of Faculty and Office Assistant (on contract) || starting date: 04-Jan-25 || ending date: 19-Jan-25",
+    "startdate": "04-Jan-25",
+    "enddate": "19-Jan-25",
+    "links": [
+      {
+        "text": "Apply Link",
+        "url": "https://ibpsonline.ibps.in/jkboajul24/"
+      }
+    ]
+  },
+  {
+    "srNo": 5,
+    "title": "CIDCO   😊   Recruitment of Systems Manager and System Analyst || starting date: 04-Jan-25 || ending date: 18-Jan-25",
+    "startdate": "04-Jan-25",
+    "enddate": "18-Jan-25",
+    "links": [
+      {
+        "text": "Apply Link",
+        "url": "https://ibpsonline.ibps.in/cidcoaugs24/"
+      }
+    ]
+  },
+  {
+    "srNo": 6,
     "title": "GS Mahanagar   😊   Recruitment of Clerks || starting date: 27-Dec-24 || ending date: 09-Jan-25",
     "startdate": "27-Dec-24",
     "enddate": "09-Jan-25",
@@ -12,7 +72,7 @@
     ]
   },
   {
-    "srNo": 2,
+    "srNo": 7,
     "title": "HDFC   😊   Recruitment of Relationship Managers || starting date: 30-Dec-24 || ending date: 07-Feb-25",
     "startdate": "30-Dec-24",
     "enddate": "07-Feb-25",
@@ -24,7 +84,7 @@
     ]
   },
   {
-    "srNo": 3,
+    "srNo": 8,
     "title": "SBI   😊   Recruitment of Probationary Officers || starting date: 27-Dec-24 || ending date: 16-Jan-25",
     "startdate": "27-Dec-24",
     "enddate": "16-Jan-25",
@@ -36,7 +96,7 @@
     ]
   },
   {
-    "srNo": 4,
+    "srNo": 9,
     "title": "RBI   😊   Recruitment for the Post of Junior Engineer || starting date: 30-Dec-24 || ending date: 20-Jan-25",
     "startdate": "30-Dec-24",
     "enddate": "20-Jan-25",
@@ -48,7 +108,7 @@
     ]
   },
   {
-    "srNo": 5,
+    "srNo": 10,
     "title": "BOB   😊   Recruitment of Specialist Officers || starting date: 28-Dec-24 || ending date: 17-Jan-25",
     "startdate": "28-Dec-24",
     "enddate": "17-Jan-25",
@@ -60,7 +120,7 @@
     ]
   },
   {
-    "srNo": 6,
+    "srNo": 11,
     "title": "Textile Commitee   😊   Recruitment of Various Posts || starting date: 23-Dec-24 || ending date: 31-Jan-25",
     "startdate": "23-Dec-24",
     "enddate": "31-Jan-25",
@@ -72,7 +132,7 @@
     ]
   },
   {
-    "srNo": 7,
+    "srNo": 12,
     "title": "IPPBL   😊   Recruitment of Specialist Officers || starting date: 21-Dec-24 || ending date: 10-Jan-25",
     "startdate": "21-Dec-24",
     "enddate": "10-Jan-25",
@@ -84,31 +144,7 @@
     ]
   },
   {
-    "srNo": 8,
-    "title": "JKBL   😊   Engagement of Apprentices under Apprentices Act, 1961 || starting date: 24-Dec-24 || ending date: 07-Jan-25",
-    "startdate": "24-Dec-24",
-    "enddate": "07-Jan-25",
-    "links": [
-      {
-        "text": "Apply Link",
-        "url": "https://ibpsonline.ibps.in/jkbledec24/"
-      }
-    ]
-  },
-  {
-    "srNo": 9,
-    "title": "SBI   😊   Recruitment of Junior Associates || starting date: 17-Dec-24 || ending date: 07-Jan-25",
-    "startdate": "17-Dec-24",
-    "enddate": "07-Jan-25",
-    "links": [
-      {
-        "text": "Apply Link",
-        "url": "https://ibpsonline.ibps.in/sbidrjadec24/"
-      }
-    ]
-  },
-  {
-    "srNo": 10,
+    "srNo": 13,
     "title": "CWC   😊   Recruitment of Various Posts || starting date: 14-Dec-24 || ending date: 12-Jan-25",
     "startdate": "14-Dec-24",
     "enddate": "12-Jan-25",
@@ -120,7 +156,7 @@
     ]
   },
   {
-    "srNo": 11,
+    "srNo": 14,
     "title": "CIDCO   😊   Recruitment of Assistant Development Officer & Field Officer || starting date: 12-Dec-24 || ending date: 11-Jan-25",
     "startdate": "12-Dec-24",
     "enddate": "11-Jan-25",
@@ -132,7 +168,7 @@
     ]
   },
   {
-    "srNo": 12,
+    "srNo": 15,
     "title": "RSCMFL   😊   Recruitment to Various Posts || starting date: 12-Dec-24 || ending date: 11-Jan-25",
     "startdate": "12-Dec-24",
     "enddate": "11-Jan-25",
@@ -144,7 +180,7 @@
     ]
   },
   {
-    "srNo": 13,
+    "srNo": 16,
     "title": "RSCBL   😊   Recruitment to various posts || starting date: 12-Dec-24 || ending date: 11-Jan-25",
     "startdate": "12-Dec-24",
     "enddate": "11-Jan-25",
@@ -156,7 +192,7 @@
     ]
   },
   {
-    "srNo": 14,
+    "srNo": 17,
     "title": "NABFID   😊   Recruitment of Officers (Senior Analyst Grade) in Nabfid on Full Term || starting date: 07-Dec-24 || ending date: 12-Jan-25",
     "startdate": "07-Dec-24",
     "enddate": "12-Jan-25",
@@ -168,7 +204,7 @@
     ]
   },
   {
-    "srNo": 15,
+    "srNo": 18,
     "title": "NABFID   😊   Recruitment of Officers (Analyst Grade) on Full Term (Regular Basis) || starting date: 07-Dec-24 || ending date: 12-Jan-25",
     "startdate": "07-Dec-24",
     "enddate": "12-Jan-25",
@@ -180,7 +216,7 @@
     ]
   },
   {
-    "srNo": 16,
+    "srNo": 19,
     "title": "BMC   😊   Recruitment of Probationary Officers & Junior Executive Assistants || starting date: 30-Nov-24 || ending date: 10-Jan-25",
     "startdate": "30-Nov-24",
     "enddate": "10-Jan-25",
@@ -192,7 +228,7 @@
     ]
   },
   {
-    "srNo": 17,
+    "srNo": 20,
     "title": "BMC   😊   Recruitment of Junior Engineer (CIVIL / M&E) & Sub Engineer (CIVIL / M&E) || starting date: 26-Nov-24 || ending date: 10-Jan-25",
     "startdate": "26-Nov-24",
     "enddate": "10-Jan-25",
@@ -204,7 +240,7 @@
     ]
   },
   {
-    "srNo": 18,
+    "srNo": 21,
     "title": "MSPGCT   😊   Recruitment for the post of Technician III || starting date: 26-Nov-24 || ending date: 10-Jan-25",
     "startdate": "26-Nov-24",
     "enddate": "10-Jan-25",
