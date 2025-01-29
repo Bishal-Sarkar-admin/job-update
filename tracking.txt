@@ -1,0 +1,17 @@
+barc.js=0 
+cbi.js=0 
+drdo.js=0 
+isro.js=0 
+mha.js=0 
+nia.js=0 
+nielit.js=0 
+bank.js=0 
+cdac.js=0 
+ecil.js=0 
+bsnl.js=0 
+pesb.js=0 
+aai.js=0 
+irctc.js=0 
+ongc.js=0 
+ssc.js=0 
+date.js=0 
