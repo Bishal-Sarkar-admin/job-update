@@ -1,19 +1,28 @@
 [
   {
-    "description": "C-DAC TVM - Walk in interview for Project Staff on Various Contract positions",
+    "description": "Notification for inviting applications for Consultant at C-DAC, Trivandrum",
     "links": [
       {
         "text": "More Details",
-        "url": "https://www.cdac.in/index.aspx?id=ca_WalkinNotification_ContractStaff20122024"
+        "url": "https://www.cdac.in/index.aspx?id=ca_Consultant04022025"
       }
     ]
   },
   {
-    "description": "Addendum dated 23/12/2024 - C-DAC TVM- Walk in interview for Project Staff on Various Contract positions",
+    "description": "Notification for inviting applications for Associate at STDC, C-DAC, Trivandrum",
     "links": [
       {
         "text": "More Details",
-        "url": "https://www.cdac.in/index.aspx?id=ca_WalkinAddendum_ContractStaff24122024"
+        "url": "https://www.cdac.in/index.aspx?id=ca_Associate04022025"
+      }
+    ]
+  },
+  {
+    "description": "C-DAC invites application for various contractual positions for different locations across India. Last date of application is 20th Feb 2025, 1800 hrs",
+    "links": [
+      {
+        "text": "Corrigendum for the newspaper advertisement",
+        "url": "https://careers.cdac.in/"
       }
     ]
   },
@@ -21,17 +30,8 @@
     "description": "Update - Recruitment to the post of Scientist B (Level 10) against Continuing contract vacancies (Advt. No. - CORP/GRP.A/04/2024)",
     "links": [
       {
-        "text": "(File Type: PDF, File Size: 715 KB, Date: 06/01/2025)",
+        "text": "(File Type: PDF, File Size: 715 KB, Date: 06/01/2025)\nFAQ for recruitment on payscale posts in C-DAC",
         "url": "https://www.cdac.in/index.aspx?id=pdf_hrd&dynamicId=advt_CORP_GRP_A_04_2024.pdf"
-      }
-    ]
-  },
-  {
-    "description": "Walk-in interview @ C-DAC, Noida for the position of Project Manager, Senior Project Engineer and Project Engineer on contract basis consolidated pay for Health Informatics and e-Governance Domain",
-    "links": [
-      {
-        "text": "Download Application Performa Noida 2024",
-        "url": "https://www.cdac.in/index.aspx?id=ca_Final_advt_no_cdacnoida_2024"
       }
     ]
   },
@@ -63,47 +63,38 @@
     ]
   },
   {
-    "description": "List of shortlisted candidates for the final interview of Project Support Staff (Admin) and Project Support Staff (HR) at C-DAC CINE against advt No. Corp/JIT/05/2024-SL",
-    "links": [
-      {
-        "text": "(File Type: PDF, File Size: 71.9 kB, Date: 28/01/2025)",
-        "url": "https://www.cdac.in/index.aspx?id=pdf_hrd&dynamicId=Final-Interview-PSS-Admin-HRD-JIT-Nov.pdf"
-      }
-    ]
-  },
-  {
-    "description": "Result of selection interview of Project Officer at C-DAC CINE against advt No. Corp/JIT/05/2024-SL",
-    "links": [
-      {
-        "text": "(File Type: PDF, File Size: 1.03 MB, Date: 27/01/2025)",
-        "url": "https://www.cdac.in/index.aspx?id=pdf_hrd&dynamicId=interview-po-JIT-Nov-2024.pdf"
-      }
-    ]
-  },
-  {
-    "description": "C-DAC TVM- Select List- Project Officer (Notification No: CORP/JIT/01/2024 dated 01/02/2024",
-    "links": [
-      {
-        "text": "(File Type: PDF, File Size: 415 KB, Date: 09/01/2025)",
-        "url": "https://www.cdac.in/index.aspx?id=ca_SelectListProjectOfficer"
-      }
-    ]
-  },
-  {
     "description": "C-DAC Delhi - List of candidates selected through Advt. no. CORP/JIT/05/2024-DL",
     "links": [
       {
-        "text": "(File Type: PDF, File Size: 631 KB, Date: 07/01/2025)",
-        "url": "https://www.cdac.in/index.aspx?id=pdf_hrd&dynamicId=delhi-list-Selected-Candidates.pdf"
+        "text": "(File Type: PDF, File Size: 647 KB, Date: 12/02/2025)",
+        "url": "https://www.cdac.in/index.aspx?id=pdf_hrd&dynamicId=CORP-JIT-052024-CDAC-DL-12022025.pdf"
       }
     ]
   },
   {
-    "description": "C-DAC Hyderabad - List of candidates selected through Various Notifications",
+    "description": "SELECT LIST - Walk in Interview for Project Staff on Various Contract positions @ CDAC, TVM - Notification No. CDACT/RCT/07/2024 dated 20/12/2024",
     "links": [
       {
-        "text": "(File Type: PDF, File Size: 323 KB, Date: 24/12/2024)",
-        "url": "https://www.cdac.in/index.aspx?id=ca_Hyd_Selected_candidates_list"
+        "text": "(File Type: PDF, File Size: 306 KB, Date: 12/02/2025)",
+        "url": "https://www.cdac.in/index.aspx?id=ca_SelectListWalkinDec2024"
+      }
+    ]
+  },
+  {
+    "description": "List of shortlisted candidate for written test for the position of PA and PE for domain Cyber Security and Forensics applied in JIT November 2024 cyle against advt No. Corp/JIT/05-SL",
+    "links": [
+      {
+        "text": "(File Type: PDF, File Size: 2 MB, Date: 05/02/2025)",
+        "url": "https://www.cdac.in/index.aspx?id=pdf_hrd&dynamicId=Silchar-Scan_20250205_125318.pdf"
+      }
+    ]
+  },
+  {
+    "description": "Result of preliminary interview of Project Engineer (E&T Trainer) against advt No. Corp/JIT/05/2024-SL",
+    "links": [
+      {
+        "text": "(File Type: PDF, File Size: 49 kB, Date: 05/02/2025)",
+        "url": "https://www.cdac.in/index.aspx?id=pdf_hrd&dynamicId=Silchar-Result-Preliminary-interview-PE.pdf"
       }
     ]
   }
